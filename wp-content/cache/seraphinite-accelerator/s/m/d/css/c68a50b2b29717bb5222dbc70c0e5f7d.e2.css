@@ -1,0 +1,1 @@
+.ct-header-account .ct-account-item:not([href]){cursor:pointer;color:var(--theme-link-initial-color);transition:var(--theme-transition)}.ct-header-account .ct-account-item:not([href]):hover{color:var(--theme-link-hover-color)}

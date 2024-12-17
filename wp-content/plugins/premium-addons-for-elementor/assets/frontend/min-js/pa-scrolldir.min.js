@@ -1,0 +1,1 @@
+jQuery(window).on("elementor/frontend/init",function(){var n=0;window.addEventListener("scroll",function(){window.paDirection=document.body.getBoundingClientRect().top>n?"up":"down",n=document.body.getBoundingClientRect().top})});

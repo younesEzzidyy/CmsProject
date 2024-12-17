@@ -1,0 +1,83 @@
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
+# BEGIN seraphinite-accelerator
+# The directives (lines) between "BEGIN seraphinite-accelerator" and "END seraphinite-accelerator" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_mime.c>
+	AddType image/avif .avif
+	AddType image/webp .webp
+	AddType application/font-woff2 .woff2
+	AddType application/x-font-opentype .otf
+</IfModule>
+<IfModule mod_expires.c>
+	ExpiresActive on
+	ExpiresByType text/css                      "access plus 43200 minutes"
+	ExpiresByType text/javascript               "access plus 43200 minutes"
+	ExpiresByType application/javascript        "access plus 43200 minutes"
+	ExpiresByType application/x-javascript      "access plus 43200 minutes"
+	ExpiresByType font/eot                      "access plus 43200 minutes"
+	ExpiresByType font/opentype                 "access plus 43200 minutes"
+	ExpiresByType font/woff                     "access plus 43200 minutes"
+	ExpiresByType application/vnd.ms-fontobject "access plus 43200 minutes"
+	ExpiresByType application/font-woff         "access plus 43200 minutes"
+	ExpiresByType application/font-woff2        "access plus 43200 minutes"
+	ExpiresByType application/x-font-ttf        "access plus 43200 minutes"
+	ExpiresByType application/x-font-woff       "access plus 43200 minutes"
+	ExpiresByType image/vnd.microsoft.icon      "access plus 43200 minutes"
+	ExpiresByType image/x-icon                  "access plus 43200 minutes"
+	ExpiresByType image/bmp                     "access plus 43200 minutes"
+	ExpiresByType image/gif                     "access plus 43200 minutes"
+	ExpiresByType image/jpeg                    "access plus 43200 minutes"
+	ExpiresByType image/png                     "access plus 43200 minutes"
+	ExpiresByType image/svg+xml                 "access plus 43200 minutes"
+	ExpiresByType image/avif                    "access plus 43200 minutes"
+	ExpiresByType image/webp                    "access plus 43200 minutes"
+	ExpiresByType audio/ogg                     "access plus 43200 minutes"
+	ExpiresByType video/mp4                     "access plus 43200 minutes"
+	ExpiresByType video/ogg                     "access plus 43200 minutes"
+	ExpiresByType video/webm                    "access plus 43200 minutes"
+</IfModule>
+<IfModule mod_headers.c>
+	<FilesMatch \.(jpe|jpg|jpeg|png|gif|bmp|webp|avif)$>
+		Header merge Vary Accept
+	</FilesMatch>
+</IfModule>
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{HTTP_ACCEPT} image\/webp
+	RewriteCond %{REQUEST_FILENAME} \.(jpe|jpg|jpeg|png|gif|bmp|webp|avif)$
+	RewriteCond %{REQUEST_FILENAME}.webp -f
+	RewriteRule ^(.*)\.(jpe|jpg|jpeg|png|gif|bmp|webp|avif)$ $1\.$2\.webp [QSA]
+</IfModule>
+<IfModule mod_headers.c>
+	<FilesMatch \.(jpe|jpg|jpeg|png|gif|bmp|webp|avif)\.webp$>
+		Header merge Vary Accept
+	</FilesMatch>
+</IfModule>
+<IfModule mod_deflate.c>
+	<IfModule mod_filter.c>
+		AddOutputFilterByType DEFLATE text/plain text/css text/javascript application/javascript application/x-javascript application/json text/html text/xml application/atom+xml application/rss+xml application/xhtml+xml application/xml text/x-component application/vnd.ms-fontobject application/x-font-ttf font/eot font/opentype image/bmp image/svg+xml image/vnd.microsoft.icon image/x-icon
+	</IfModule>
+</IfModule>
+<IfModule mod_headers.c>
+	<IfModule mod_rewrite.c>
+		RewriteEngine On
+		RewriteCond %{HTTP:Accept-Encoding} (^|\W)gzip(\W|$)
+		RewriteCond %{REQUEST_FILENAME} \.(css|js)$
+		RewriteCond %{REQUEST_FILENAME}.gz -f
+		RewriteRule ^(.*)\.(css|js)$ $1\.$2\.gz [QSA]
+		RewriteRule \.css\.gz$ - [T=text/css,E=no-gzip:1,E=no-brotli:1]
+		RewriteRule \.js\.gz$ - [T=application/javascript,E=no-gzip:1,E=no-brotli:1]
+	</IfModule>
+	<FilesMatch \.(js|css)\.gz$>
+		Header set Content-Encoding gzip
+		Header merge Vary Accept-Encoding
+	</FilesMatch>
+</IfModule>
+# END seraphinite-accelerator

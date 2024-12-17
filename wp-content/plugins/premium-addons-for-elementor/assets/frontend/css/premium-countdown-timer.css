@@ -1,0 +1,204 @@
+/**************** Premium CountDown *************/
+/************************************************/
+.premium-countdown {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+}
+
+.countdown-row {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.countdown .countdown-section {
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.countdown .countdown-section:last-child {
+  margin-right: 0;
+}
+.countdown .countdown-amount {
+  position: relative;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.countdown .pre_time-mid {
+  display: block;
+}
+
+.premium-countdown-separator-yes .countdown_separator {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 10px;
+  font-size: 30px;
+}
+.premium-countdown-separator-yes .countdown-row .countdown-section:last-child .countdown_separator,
+.premium-countdown-separator-yes .premium-countdown-block:last-child .countdown_separator {
+  display: none;
+}
+
+/**
+ * Digit and unit styles
+ */
+.countdown-period {
+  width: 100%;
+}
+.countdown-period span {
+  display: block;
+}
+
+.premium-countdown-inline .countdown-section {
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+}
+.premium-countdown-inline .countdown-period {
+  margin-left: 10px;
+}
+.premium-countdown-inline .premium-countdown-featured .countdown-period {
+  width: unset !important;
+}
+
+.premium-countdown-block .countdown-section,
+.premium-countdown-uinside-yes .countdown-section {
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.premium-countdown-block .countdown-digit-separator,
+.premium-countdown-uinside-yes .countdown-digit-separator {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.premium-countdown-block .premium-countdown-label,
+.premium-countdown-uinside-yes .premium-countdown-label {
+  width: 100%;
+}
+
+.premium-countdown-uinside-yes .countdown-amount {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.countdown-digit-separator {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.countdown-circle-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.countdown-circle-wrap .countdown-svg {
+  width: 100%;
+  height: 100%;
+}
+
+.premium-countdown-circle .countdown-amount {
+  border-radius: 100%;
+}
+
+/**
+ * Flip Layout
+ */
+.premium-countdown-flipping {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.premium-countdown-flipping .countdown_separator {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.premium-countdown-flipping .flip-unit-wrap {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.premium-countdown-block .flip-unit {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 100%;
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  transform: translate(-50%);
+}
+
+.premium-countdown-featured .countdown-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.premium-countdown-featured .countdown-section:first-child {
+  width: 100%;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.premium-countdown-featured .countdown-section:first-child .countdown-amount {
+  height: auto !important;
+}
+.premium-countdown-featured .countdown-section:first-child .countdown-period span {
+  width: unset !important;
+}
+.premium-countdown-featured .countdown-section:first-child .countdown_separator {
+  display: none;
+}
+
+.countdown-separator-circle {
+  width: 3px;
+  height: 3px;
+  background-color: #000;
+  border-radius: 100%;
+}
+
+.premium-countdown-exp-message.premium-addons__v-hidden {
+  display: none;
+}

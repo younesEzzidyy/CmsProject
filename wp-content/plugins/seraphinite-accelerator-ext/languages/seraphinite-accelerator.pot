@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-accelerator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  cmn.pot (seraphinite-accelerator 2.22.16)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-accelerator 2.22.16\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  main.pot (seraphinite-accelerator 2.22.16)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-accelerator 2.22.16\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Seraphinite Accelerator
+msgid "Seraphinite Accelerator"
+msgstr ""
+
+# Seraphinite Accelerator (Extended, limited)
+msgid "Seraphinite Accelerator (Extended, limited)"
+msgstr ""
+
+# Turns on site high speed to be attractive for people and search engines.
+msgid ""
+"Turns on site high speed to be attractive for people and search engines."
+msgstr ""
+
+# https://www.s-sols.com
+msgid "https://www.s-sols.com"
+msgstr ""
+
+# Seraphinite Solutions
+msgid "Seraphinite Solutions"
+msgstr ""
+
+# http://wordpress.org/plugins/seraphinite-accelerator
+msgid "http://wordpress.org/plugins/seraphinite-accelerator"
+msgstr ""
+
+# Optimized by %s
+#, php-format
+msgid "BannerText_%s"
+msgstr ""

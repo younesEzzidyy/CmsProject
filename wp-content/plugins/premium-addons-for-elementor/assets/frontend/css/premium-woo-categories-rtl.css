@@ -1,0 +1,168 @@
+.premium-woo-cats__list li.product-category {
+    width: 100%;
+  }
+
+  .premium-woo-cats__list-wrap ul.products {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none outside;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .premium-woo-cats__list-wrap .woocommerce-loop-category__title {
+    margin: 10px 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__list-wrap .woocommerce-loop-category__title sup {
+    margin-left: 5px;
+  }
+
+  .premium-woo-cats__list-wrap ul.slick-dots {
+    width: 100%;
+  }
+
+  .premium-woo-cats__category {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .premium-woo-cats__img-wrap {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__img-wrap img {
+    width: 100%;
+    display: block;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__img-overlay {
+    position: absolute;
+    inset: 0;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__content-wrap {
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__count {
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__desc {
+    margin: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .premium-woo-cats__img-zoomout img {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+
+  .premium-woo-cats__img-zoomout li.product:hover img {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .premium-woo-cats__img-zoomin img {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .premium-woo-cats__img-zoomin li.product:hover img {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+
+  .premium-woo-cats__img-gray img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .premium-woo-cats__img-gray li.product:hover img {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+  }
+
+  .premium-woo-cats__img-sepia img {
+    -webkit-filter: sepia(30%);
+    filter: sepia(30%);
+  }
+
+  .premium-woo-cats__img-sepia li.product:hover img {
+    -webkit-filter: sepia(0%);
+    filter: sepia(0%);
+  }
+
+  .premium-woo-cats__img-bright img {
+    -webkit-filter: brightness(1);
+    filter: brightness(1);
+  }
+
+  .premium-woo-cats__img-bright li.product:hover img {
+    -webkit-filter: brightness(1.2);
+    filter: brightness(1.2);
+  }
+
+  .premium-woo-cats__img-trans img {
+    -webkit-transform: translateX(-15px) scale(1.1);
+    -ms-transform: translateX(-15px) scale(1.1);
+    transform: translateX(-15px) scale(1.1);
+  }
+
+  .premium-woo-cats__img-trans li.product:hover img {
+    -webkit-transform: translateX(0px) scale(1.1);
+    -ms-transform: translateX(0px) scale(1.1);
+    transform: translateX(0px) scale(1.1);
+  }
+
+  .premium-woo-cats__img-scale li.product:hover img {
+    -webkit-transform: scaleX(1.3) scaleY(1.3) rotate(5deg);
+    -ms-transform: scaleX(1.3) scaleY(1.3) rotate(5deg);
+    transform: scaleX(1.3) scaleY(1.3) rotate(5deg);
+  }
+
+  .premium-woo-cats__content-below .premium-woo-cats__category {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .premium-woo-cats__content-above .premium-woo-cats__category {
+    -webkit-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+
+  .premium-woo-cats__content-next .premium-woo-cats__category {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }

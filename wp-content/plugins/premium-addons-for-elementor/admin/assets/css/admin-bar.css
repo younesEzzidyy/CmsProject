@@ -1,0 +1,28 @@
+#wp-admin-bar-premium-addons .ab-item .dashicons {
+    position: relative;
+    top: 8px;
+    display: inline-block;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    font-size: inherit;
+    font-family: dashicons;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: auto;
+}
+
+#wp-admin-bar-pa-feature-doc .ab-item .dashicons {
+    font-size: 16px;
+    left: -2px
+}
+
+#wp-admin-bar-premium-addons>.ab-item>i {
+    font-size: 18px !important;
+}
+
+#wp-admin-bar-premium-addons li .loading {
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}

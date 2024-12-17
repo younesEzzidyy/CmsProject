@@ -1,0 +1,4068 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-accelerator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  cmn.admin.pot (seraphinite-accelerator 2.22.16)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-accelerator 2.22.16\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  main.admin.pot (seraphinite-accelerator 2.22.16)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-accelerator 2.22.16\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Functionality is not implemented yet.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004001"
+msgstr ""
+
+# General error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004005"
+msgstr ""
+
+# The operation attempted is not supported.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004021"
+msgstr ""
+
+# Access is denied. Ensure that there are proper access rights.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070005"
+msgstr ""
+
+# One or more arguments are invalid.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070057"
+msgstr ""
+
+# Not found.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070490"
+msgstr ""
+
+# Data is corrupted.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070570"
+msgstr ""
+
+# The timeout period expired.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800705B4"
+msgstr ""
+
+# External program ended with error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800401F7"
+msgstr ""
+
+# Result code 0x%08X.
+#. translators: 1 - error code.
+#, php-format
+msgctxt "admin.ErrDescr_Common"
+msgid "Def_%08X"
+msgstr ""
+
+# Upgrade to base plugin version is not supported. Please, try to uninstall the current plugin first and then install the new one.
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgradeErrorToBaseVer"
+msgstr ""
+
+# The settings have been restored successfully to their defaults.
+msgctxt "admin.Common_Settings"
+msgid "ResetSuccInfo"
+msgstr ""
+
+# The settings have not been restored: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "ResetErrInfo_%1$s"
+msgstr ""
+
+# Documentation
+msgctxt "admin.Common"
+msgid "PluginDocLink"
+msgstr ""
+
+# Download a new version
+msgctxt "admin.Common"
+msgid "DownloadNewVerBtn"
+msgstr ""
+
+# Order Premium Version
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureBtn"
+msgstr ""
+
+# By pressing "%1$s" button you are agreeing with the %2$sEnd-User License Agreement%3$s.
+#. translators: 1 - button name; 2,3 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "LicAcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# The upgrade version will be downloaded and replace the existing one automatically.
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrInfo"
+msgstr ""
+
+# Upgraded!
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrOkInfo"
+msgstr ""
+
+# Upgrading...
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrProgressInfo"
+msgstr ""
+
+# Refresh the page after upgrade
+msgctxt "admin.Common_SwitchTo"
+msgid "RefreshChk"
+msgstr ""
+
+# Rate It
+msgctxt "admin.Common_RateIt"
+msgid "Title"
+msgstr ""
+
+# Thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateSmallBtn"
+msgstr ""
+
+# If you like the plugin please could you give us a %1$s rating.%2$s%3$sThank you very much in advance. We do %4$sall of our best%5$s.
+#. translators: 1 - link; 2 - Info_P2; 3 - separator tags; 4,5 - link tags.
+#, php-format
+msgctxt "admin.Common_RateIt"
+msgid "Info_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# It really improves the plugin.
+msgctxt "admin.Common_RateIt"
+msgid "Info_P2"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginSubjectTitle_%1$s%2$s"
+msgstr ""
+
+# Accelerator
+msgctxt "admin.Common"
+msgid "PluginTitle"
+msgstr ""
+
+# Accelerator
+msgctxt "admin.Common"
+msgid "PluginTitleLong"
+msgstr ""
+
+# Seraphinite Accelerator
+msgctxt "admin.Common"
+msgid "PluginTitleFull"
+msgstr ""
+
+# Turns on site high speed to be attractive for people and search engines.
+msgctxt "admin.Common"
+msgid "PluginDescription"
+msgstr ""
+
+# Turns on site high speed to be attractive for people and search engines.
+msgctxt "admin.Common"
+msgid "PluginDescriptionFull"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginNameToDetails_%1$s%2$s"
+msgstr ""
+
+# Start
+msgctxt "admin.Common"
+msgid "Start"
+msgstr ""
+
+# Function '%1$s' is blocked
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FuncBlocked_%1$s"
+msgstr ""
+
+# Can't execute (%1$s) external program
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErr_%1$s"
+msgstr ""
+
+# External program (%1$s) returned the code %2$d and response (%3$s)
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErrCode_%1$s%2$d%3$s"
+msgstr ""
+
+# Can't create temporary file in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "TmpFileCreateErr_%1$s"
+msgstr ""
+
+# Can't write in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "DirWriteErr_%1$s"
+msgstr ""
+
+# Can't find '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileNotFound_%1$s"
+msgstr ""
+
+# Can't write '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileWriteErr_%1$s"
+msgstr ""
+
+# Can't read '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileReadErr_%1$s"
+msgstr ""
+
+# Can't modify '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileModifyErr_%1$s"
+msgstr ""
+
+# Can't rename '%1$s' file to '%2$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileRenameErr_%1$s%2$s"
+msgstr ""
+
+# Can't delete '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileDeleteErr_%1$s"
+msgstr ""
+
+# Can't mark '%1$s' file as executable
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileMakeExecErr_%1$s"
+msgstr ""
+
+# Can't download '%1$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetDownloadErr_%1$s"
+msgstr ""
+
+# Can't recognize '%1$s' MIME type
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetMimeErr_%1$s"
+msgstr ""
+
+# PHP's launcher file not found near extensions' '%1$s' directory.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExecMdlNotFound_%1$s"
+msgstr ""
+
+# %1$s. Extensions' directory is '%2$s'.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExtDirSuffix_%1$s%2$s"
+msgstr ""
+
+# About
+msgctxt "admin.Common_About"
+msgid "Title"
+msgstr ""
+
+# Seraphinite Accelerator (Extended, limited)
+msgctxt "admin.Common"
+msgid "PluginTitleFullWithSuffix"
+msgstr ""
+
+# %1$sVersion:%2$s %3$s
+#. translators: 1,2 - strong tags; 3 - version.
+#, php-format
+msgctxt "admin.Common_About"
+msgid "Version_%1$s%2$s%3$s"
+msgstr ""
+
+# End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "About_LinkEULA"
+msgstr ""
+
+# Third-Party Software
+msgctxt "admin.Common_About"
+msgid "Link3rdPartySoft"
+msgstr ""
+
+# Get support...
+msgctxt "admin.Common_About"
+msgid "LinkSupport"
+msgstr ""
+
+# About Vendor
+msgctxt "admin.Common_AboutVendor"
+msgid "Title"
+msgstr ""
+
+# We develop solutions for WordPress and other platforms to streamline your business and life.
+msgctxt "admin.Common_AboutVendor"
+msgid "Info1"
+msgstr ""
+
+# Please, do not hesitate to %1$scontact us%2$s if you have any %3$squestion%4$s or want %5$sadditional features%6$s.
+#. translators: 1,2 - link tags; 3,4 - strong tags; 5,6 - strong tags.
+#, php-format
+msgctxt "admin.Common_AboutVendor"
+msgid "Info2_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# More plugins...
+msgctxt "admin.Common_AboutVendor"
+msgid "MorePluginsBtn"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AboutVendor"
+msgid "MoreInfoBtn"
+msgstr ""
+
+# License
+msgctxt "admin.Common_Lic"
+msgid "SettingsTitle"
+msgstr ""
+
+# Featured Plugins
+msgctxt "admin.Common_AdvertProducts"
+msgid "Title"
+msgstr ""
+
+# This promotion %1$sisn't shown%2$s in the %3$spremium version%4$s.
+#. translators: 1,2 - strong tags; 3,4 - strong tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "LockedFeatureInsideInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AdvertProducts"
+msgid "ItemMoreInfoBtn"
+msgstr ""
+
+# All plugins can be discovered at the %1$smain site%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "TotalInfo_%1$s%2$s"
+msgstr ""
+
+# All current settings will be lost. Are you sure you want to restore the default settings?
+msgctxt "admin.Common_Settings"
+msgid "RestoreConfirm"
+msgstr ""
+
+# Previous
+msgctxt "admin.Common_Settings"
+msgid "WizPrevBtn"
+msgstr ""
+
+# Next
+msgctxt "admin.Common_Settings"
+msgid "WizNextBtn"
+msgstr ""
+
+# Finish
+msgctxt "admin.Common_Settings"
+msgid "WizFinishBtn"
+msgstr ""
+
+# Begin setup wizard
+msgctxt "admin.Common_Settings"
+msgid "WizStartBtn"
+msgstr ""
+
+# Setup wizard
+msgctxt "admin.Common_Settings"
+msgid "TitleWiz"
+msgstr ""
+
+# The settings have been saved successfully.
+msgctxt "admin.Common_Settings"
+msgid "SaveSuccInfo"
+msgstr ""
+
+# The settings have been partially saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveWarnInfo_%1$s"
+msgstr ""
+
+# The settings have not been saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveErrInfo_%1$s"
+msgstr ""
+
+# Unable to automatically rename plugin's directory '%1$s' to '%2$s' one. Please, first, disable the plugin, then rename the directory manually in any file manager, then refresh the plugin list, and finally enable the plugin again. This is necessary to prevent collisions with 3rd party software.
+#, php-format
+msgctxt "admin.Common_Notice"
+msgid "SelfRenameFailed_%1$s%2$s"
+msgstr ""
+
+# The plugin's behavior has been changed since previous used version. Please, see the details in the %1$sproduct's changelog%2$s and correct the settings if necessary.
+#, php-format
+msgctxt "admin.Common_ChangeVersion"
+msgid "Info_%1$s%2$s"
+msgstr ""
+
+# Confirm
+msgctxt "admin.Common_ChangeVersion"
+msgid "ConfirmBtn"
+msgstr ""
+
+# It looks like you've been using the plugin for a while now, thanks!
+msgctxt "admin.Common_RateIt"
+msgid "InfoPrefix"
+msgstr ""
+
+# Say thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateBtn"
+msgstr ""
+
+# Postpone
+msgctxt "admin.Common_RateIt"
+msgid "PostponeBtn"
+msgstr ""
+
+# Accept the End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "AcceptBtn"
+msgstr ""
+
+# Please, accept the new %1$sEnd-User License Agreement%2$s. By pressing "%3$s" button you are agreeing with it.
+#. translators: 1,2 - link tags; 3 - button name.
+#, php-format
+msgctxt "admin.Common_Eula"
+msgid "AcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# The context has expired and can no longer be used.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_8007078B"
+msgstr ""
+
+# Plugin is not compatible with current PHP version %1$s according to it %3$srequirements%4$s. Please <strong>update your PHP version to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "PhpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Plugin is not compatible with current WordPress version %1$s according to it %3$srequirements%4$s. Please <strong>update your WordPress to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "WpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Premium features
+msgctxt "admin.Common_SwitchTo"
+msgid "FullTitle"
+msgstr ""
+
+# Please, upgrade to the obtained version to use %1$spremium features%2$s. Also, you can %3$s<strong>download</strong>%4$s it manually.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "FullInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Upgrade to the obtained version
+msgctxt "admin.Common_SwitchTo"
+msgid "FullBtn"
+msgstr ""
+
+# Upgrade
+msgctxt "admin.Common_SwitchTo"
+msgid "FullSmallBtn"
+msgstr ""
+
+# Please, order or get the license from %1$syour account%2$s to use the version with %3$spremium features%4$s.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Order
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderBtn"
+msgstr ""
+
+# Not active
+msgctxt "admin.Common_Lic"
+msgid "State_NotActive"
+msgstr ""
+
+# Expired
+msgctxt "admin.Common_Lic"
+msgid "State_Expired"
+msgstr ""
+
+# Please, check your license status in %1$syour account%2$s.
+#, php-format
+msgctxt "admin.Common_Lic"
+msgid "State_Expired_Descr_%1$s%2$s"
+msgstr ""
+
+# Suspended
+msgctxt "admin.Common_Lic"
+msgid "State_Suspended"
+msgstr ""
+
+# You can check your license status in the %1$syour account%2$s.
+#, php-format
+msgctxt "admin.Common_Lic"
+msgid "State_Suspended_Descr_%1$s%2$s"
+msgstr ""
+
+# Blocked
+msgctxt "admin.Common_Lic"
+msgid "State_Blocked"
+msgstr ""
+
+# If it seems like a mistake, please, %1$scontact us%2$s.
+#, php-format
+msgctxt "admin.Common_Lic"
+msgid "State_Blocked_Descr_%1$s%2$s"
+msgstr ""
+
+# Error
+msgctxt "admin.Common_Lic"
+msgid "State_Error"
+msgstr ""
+
+# %1$s If necessary, please, %2$scontact us%3$s.
+#, php-format
+msgctxt "admin.Common_Lic"
+msgid "State_Error_Descr_%1$s%2$s%3$s"
+msgstr ""
+
+# Active
+msgctxt "admin.Common_Lic"
+msgid "State_Active"
+msgstr ""
+
+# The license was successfully activated.
+msgctxt "admin.Common_Lic_ActionResult"
+msgid "ActivateOk"
+msgstr ""
+
+# The license was successfully deactivated.
+msgctxt "admin.Common_Lic_ActionResult"
+msgid "DeactivateOk"
+msgstr ""
+
+# %1$s It had been already active for this site.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Ok_EpAlreadyActive_%1$s"
+msgstr ""
+
+# %1$s It had been already inactive for this site.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Ok_EpAlreadyInactive_%1$s"
+msgstr ""
+
+# %1$s But the license is suspended. You can check your license status in %2$syour account%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Ok_LicInactive_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s But the license is expired. Please, check your license status in %2$syour account%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Ok_LicExpired_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Ok_%1$s"
+msgstr ""
+
+# The license couldn't be activated.
+msgctxt "admin.Common_Lic_ActionResult"
+msgid "ActivateErr"
+msgstr ""
+
+# The license couldn't be deactivated.
+msgctxt "admin.Common_Lic_ActionResult"
+msgid "DeactivateErr"
+msgstr ""
+
+# %1$s Please check the license key. If problem persists, please %2$scontact us%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_InvalidArg_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s Internal error. Please, retry operation a bit later. If problem stays, please %2$scontact us%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_Internal_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s Activation limit is reached. Please, check the maximum amount of sites in %2$syour account%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_EpActivationLimitReached_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s Endpoint is not active.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_EpNotActive_%1$s"
+msgstr ""
+
+# %1$s The license key doesn't exist.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_LicInvalid_%1$s"
+msgstr ""
+
+# %1$s The license is blocked. If it seems like a mistake, please, %2$scontact us%3$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_LicBlocked_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s The license key relates to another product.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_UnitInvalid_%1$s"
+msgstr ""
+
+# %1$s %2$s Please, retry operation a bit later. If problem stays, please %3$scontact us%4$s.
+#, php-format
+msgctxt "admin.Common_Lic_ActionResult_Suffix"
+msgid "Err_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# State
+msgctxt "admin.Common_Lic"
+msgid "StateLabel"
+msgstr ""
+
+# Key
+msgctxt "admin.Common_Lic"
+msgid "KeyLabel"
+msgstr ""
+
+# Activate
+msgctxt "admin.Common_Lic"
+msgid "ActivateBtn"
+msgstr ""
+
+# Deactivate
+msgctxt "admin.Common_Lic"
+msgid "DeactivateBtn"
+msgstr ""
+
+# You can always check the license activation information in %1$syour account%2$s.
+#, php-format
+msgctxt "admin.Common_Lic"
+msgid "ActivationNotice_%1$s%2$s"
+msgstr ""
+
+# Order
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureSmallBtn"
+msgstr ""
+
+# Add
+msgctxt "admin.Common_ItemsList"
+msgid "AddItemBtn"
+msgstr ""
+
+# Delete all
+msgctxt "admin.Common_ItemsList"
+msgid "DelAllItemsBtn"
+msgstr ""
+
+# No items
+msgctxt "admin.Common_ItemsList"
+msgid "NoItemsInfo"
+msgstr ""
+
+# Manager
+msgctxt "admin.Manage"
+msgid "Title"
+msgstr ""
+
+# %1$sCongratulations and thank you for choosing us! The most powerful optimization solution has been installed on your site. And there is a need to do one additional step - finish setup by adapting setting personally to your site. All settings are tuned to get the most stable and optimized result for most sites and this step can be skipped due to it can be run at any time from the %2$ssettings%3$s.
+#, php-format
+msgctxt "admin.Notice"
+msgid "SettWizNeeded_%1$s%2$s%3$s"
+msgstr ""
+
+# The limit of %1$d page visits in current period of %2$d day(s) has been reached. Now <strong>the plugin works in cache-only mode and without full optimization</strong>. When next period comes the limit will be reset and the plugin will return to full optimization mode.
+#, php-format
+msgctxt "admin.Notice"
+msgid "OutOfLimits_%1$d%2$d"
+msgstr ""
+
+# The settings have been changed. If the display of pages depends on the settings made and if you want the settings to be immediately applied to already optimized pages, please, don't forget to update the cache %1$shere%2$s.
+#, php-format
+msgctxt "admin.Notice"
+msgid "SettChangedUpdateCache_%1$s%2$s"
+msgstr ""
+
+# Status
+msgctxt "admin.Manage_Status"
+msgid "Title"
+msgstr ""
+
+# Pages' visits:
+msgctxt "admin.Manage_Status"
+msgid "PageVisitCountPeriodLbl"
+msgstr ""
+
+# Particular auto update:
+msgctxt "admin.Manage_Status"
+msgid "PostUpdLbl"
+msgstr ""
+
+# Particular scheduled update:
+msgctxt "admin.Manage_Status"
+msgid "ScheUpdLbl"
+msgstr ""
+
+# Cleanup old:
+msgctxt "admin.Manage_Status"
+msgid "CleanupLbl"
+msgstr ""
+
+# Server common load:
+msgctxt "admin.Manage_Status"
+msgid "LoadAvgLbl"
+msgstr ""
+
+# Statistics
+msgctxt "admin.Manage_Stat"
+msgid "Title"
+msgstr ""
+
+# Cached pages:
+msgctxt "admin.Manage_Stat"
+msgid "ObjCountLbl"
+msgstr ""
+
+# Separated scripts:
+msgctxt "admin.Manage_Stat"
+msgid "JsCountLbl"
+msgstr ""
+
+# Separated styles:
+msgctxt "admin.Manage_Stat"
+msgid "CssCountLbl"
+msgstr ""
+
+# Separated images:
+msgctxt "admin.Manage_Stat"
+msgid "ImgCountLbl"
+msgstr ""
+
+# Separated learned structures:
+msgctxt "admin.Manage_Stat"
+msgid "LrnCountLbl"
+msgstr ""
+
+# Self-learning space:
+msgctxt "admin.Manage_Stat"
+msgid "LrnSpaceLbl"
+msgstr ""
+
+# Total used space:
+msgctxt "admin.Manage_Stat"
+msgid "UsedSpaceLbl"
+msgstr ""
+
+# Same parts separation efficiency:
+msgctxt "admin.Manage_Stat"
+msgid "FragEffLbl"
+msgstr ""
+
+# Compression efficiency:
+msgctxt "admin.Manage_Stat"
+msgid "ComprEffLbl"
+msgstr ""
+
+# Refresh statistics
+msgctxt "admin.Manage_Stat"
+msgid "Refresh"
+msgstr ""
+
+# Operate
+msgctxt "admin.Manage_Operate"
+msgid "Title"
+msgstr ""
+
+# All
+msgctxt "admin.Manage_Operate_Clear"
+msgid "Item_All"
+msgstr ""
+
+# Specified URLs, URIs, or expressions
+msgctxt "admin.Manage_Operate_Clear"
+msgid "Item_Uri"
+msgstr ""
+
+# Site's URLs, relative URIs, or expression (each on new line) or leave empty for site's root
+msgctxt "admin.Manage_Operate"
+msgid "UriPhlr"
+msgstr ""
+
+# Delete cache
+msgctxt "admin.Manage_Operate"
+msgid "Delete"
+msgstr ""
+
+# Revalidate cache
+msgctxt "admin.Manage_Operate"
+msgid "Revalidate"
+msgstr ""
+
+# Revalidate cache if needed
+msgctxt "admin.Manage_Operate"
+msgid "CheckRevalidate"
+msgstr ""
+
+# Delete server's cache (if available)
+msgctxt "admin.Manage_Operate"
+msgid "SrvDel"
+msgstr ""
+
+# Content optimization queue
+msgctxt "admin.Manage_Queue"
+msgid "Title"
+msgstr ""
+
+# Clear
+msgctxt "admin.Manage_Queue"
+msgid "Delete"
+msgstr ""
+
+# HTML checker
+msgctxt "admin.Manage_HtmlChecker"
+msgid "Title"
+msgstr ""
+
+# Basic fix
+msgctxt "admin.Manage_HtmlChecker_Fix"
+msgid "LiteChk"
+msgstr ""
+
+# Additional fix
+msgctxt "admin.Manage_HtmlChecker_Fix"
+msgid "MedChk"
+msgstr ""
+
+# Advanced fix via 'Tidy'
+msgctxt "admin.Manage_HtmlChecker_Fix"
+msgid "TidyChk"
+msgstr ""
+
+# Check
+msgctxt "admin.Manage_Operate"
+msgid "Check"
+msgstr ""
+
+# Hosting
+msgctxt "admin.HostingBanner"
+msgid "Title"
+msgstr ""
+
+# Seraphinite Hosting
+msgctxt "admin.HostingBanner"
+msgid "Name"
+msgstr ""
+
+# We recommend our hosting, which is fully optimized to work with Seraphinite Accelerator.
+msgctxt "admin.HostingBanner"
+msgid "Description"
+msgstr ""
+
+# %1$s out of %2$s till %3$s
+#, php-format
+msgctxt "admin.Manage_Status"
+msgid "PageVisitCountPeriod_%1$s%2$s%3$s"
+msgstr ""
+
+# %1$s post in queue
+# %1$s posts in queue
+#, php-format
+msgctxt "admin.Manage_Status"
+msgid "PostUpdDscr_%1$s"
+msgid_plural "PostUpdDscr_%1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+# Next run at: %1$s
+#, php-format
+msgctxt "admin.Manage_Status"
+msgid "ScheUpdDscr_%1$s"
+msgstr ""
+
+# Running
+msgctxt "admin.Manage_Status"
+msgid "ScheUpdRunningDscr"
+msgstr ""
+
+# Next run at: %1$s
+#, php-format
+msgctxt "admin.Manage_Status"
+msgid "CleanUpDscr_%1$s"
+msgstr ""
+
+# Running
+msgctxt "admin.Manage_Status"
+msgid "CleanUpRunningDscr"
+msgstr ""
+
+# Mobile High Res
+msgctxt "admin.Manage_Queue"
+msgid "ViewMobileHighResTxt"
+msgstr ""
+
+# Mobile Low Res
+msgctxt "admin.Manage_Queue"
+msgid "ViewMobileLowResTxt"
+msgstr ""
+
+# Mobile
+msgctxt "admin.Manage_Queue"
+msgid "ViewMobileTxt"
+msgstr ""
+
+# Other
+msgctxt "admin.Manage_Queue"
+msgid "ViewOtherTxt"
+msgstr ""
+
+# Common
+msgctxt "admin.Manage_Queue"
+msgid "ViewComonSingleTxt"
+msgstr ""
+
+# Desktop
+msgctxt "admin.Manage_Queue"
+msgid "ViewComonTxt"
+msgstr ""
+
+# Such images' compression is not supported on current hosting configuration
+msgctxt "admin.Msg"
+msgid "ImgConvertUnsupp"
+msgstr ""
+
+# Converting '%1$s' to '%2$s' type
+#, php-format
+msgctxt "admin.Msg"
+msgid "ImgConvertFile_%1$s%2$s"
+msgstr ""
+
+# Convert '%1$s' to '%2$s' type: %3$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "ImgConvertFileErr_%1$s%2$s%3$s"
+msgstr ""
+
+# Adapting '%1$s' image
+#, php-format
+msgctxt "admin.Msg"
+msgid "ImgAdaptFile_%1$s"
+msgstr ""
+
+# Compression '%1$s' is not supported
+#, php-format
+msgctxt "admin.Msg"
+msgid "DataComprUnsupp_%1$s"
+msgstr ""
+
+# Can't compress data via '%1$s'
+#, php-format
+msgctxt "admin.Msg"
+msgid "DataComprErr_%1$s"
+msgstr ""
+
+# Caching external image: %1$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "CacheExtImgErr_%1$s"
+msgstr ""
+
+# Request headers:\n%1$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "RequestHeadersTrace_%1$s"
+msgstr ""
+
+# Style '%1$s' has wrong type '%2$s'.
+#, php-format
+msgctxt "admin.Msg"
+msgid "CssUrlWrongType_%1$s%2$s"
+msgstr ""
+
+# Styles parsing: %1$s in '%2$s'(%3$s): %4$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "CssParseTrace_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Styles parsing: %1$s in '%2$s'(%3$s) in selector '%5$s'(%6$s): %4$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "CssParseSelTrace_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# error
+msgctxt "admin.Msg"
+msgid "CssParseTrace_ErrHigh"
+msgstr ""
+
+# warning
+msgctxt "admin.Msg"
+msgid "CssParseTrace_ErrMed"
+msgstr ""
+
+# notice
+msgctxt "admin.Msg"
+msgid "CssParseTrace_ErrLow"
+msgstr ""
+
+# Script '%1$s' has wrong type '%2$s'.
+#, php-format
+msgctxt "admin.Msg"
+msgid "JsUrlWrongType_%1$s%2$s"
+msgstr ""
+
+# Ended unexpectedly
+msgctxt "admin.Manage_Queue"
+msgid "ErrTerminated"
+msgstr ""
+
+# Probably, there is not enough memory or was external termination
+msgctxt "admin.Manage_Queue"
+msgid "ErrTerminatedDsc"
+msgstr ""
+
+# Maximum execution time exceeded
+msgctxt "admin.Manage_Queue"
+msgid "ErrTimeout"
+msgstr ""
+
+# Probably, PHP execution time should be increased
+msgctxt "admin.Manage_Queue"
+msgid "ErrTimeoutDsc"
+msgstr ""
+
+# Stopped
+msgctxt "admin.Manage_Queue"
+msgid "WarnAborted"
+msgstr ""
+
+# Not found
+msgctxt "admin.Manage_Queue"
+msgid "ErrNotFound"
+msgstr ""
+
+# Redirection
+msgctxt "admin.Manage_Queue"
+msgid "ErrRedir"
+msgstr ""
+
+# Redirection (temporary)
+msgctxt "admin.Manage_Queue"
+msgid "ErrRedirTmp"
+msgstr ""
+
+# Completed
+msgctxt "admin.Manage_Queue"
+msgid "StateOk"
+msgstr ""
+
+# Already optimized
+msgctxt "admin.Manage_Queue"
+msgid "StateSkipAlreadyProcessed"
+msgstr ""
+
+# Not changed
+msgctxt "admin.Manage_Queue"
+msgid "StateSkipNotChanged"
+msgstr ""
+
+# Skipped: %1$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateSkip_%1$s"
+msgstr ""
+
+# Failed: %1$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateErr_%1$s"
+msgstr ""
+
+# Address
+msgctxt "admin.Manage_Queue"
+msgid "Address"
+msgstr ""
+
+# Initiator
+msgctxt "admin.Manage_Queue"
+msgid "Initiator"
+msgstr ""
+
+# View
+msgctxt "admin.Manage_Queue"
+msgid "View"
+msgstr ""
+
+# User
+msgctxt "admin.Manage_Queue"
+msgid "User"
+msgstr ""
+
+# Geo location (beta)
+msgctxt "admin.Settings_Views_Geo"
+msgid "Lbl"
+msgstr ""
+
+# State
+msgctxt "admin.Manage_Queue"
+msgid "State"
+msgstr ""
+
+# Duration
+msgctxt "admin.Manage_Queue"
+msgid "Duration"
+msgstr ""
+
+# Time
+msgctxt "admin.Manage_Queue"
+msgid "Time"
+msgstr ""
+
+# Getting content, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Get_%1$s%2$s"
+msgstr ""
+
+# Parsing, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Parse_%1$s%2$s"
+msgstr ""
+
+# Optimizing content parts, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_ContParts_%1$s%2$s"
+msgstr ""
+
+# Optimizing images, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Images_%1$s%2$s"
+msgstr ""
+
+# Optimizing videos and frames, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Frames_%1$s%2$s"
+msgstr ""
+
+# Optimizing styles, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Styles_%1$s%2$s"
+msgstr ""
+
+# Optimizing scripts, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Scripts_%1$s%2$s"
+msgstr ""
+
+# Optimizing lazy HTML, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_LazyCont_%1$s%2$s"
+msgstr ""
+
+# Finalizing, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInProgress_Final_%1$s%2$s"
+msgstr ""
+
+# Getting content, %1$sstop%2$s
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "StateInit_%1$s%2$s"
+msgstr ""
+
+# Aborting for restart
+msgctxt "admin.Manage_Queue"
+msgid "StateAbortingForRepeat"
+msgstr ""
+
+# Stopping
+msgctxt "admin.Manage_Queue"
+msgid "StateAborting"
+msgstr ""
+
+# Pending
+msgctxt "admin.Manage_Queue"
+msgid "StateInitial"
+msgstr ""
+
+# Particular manual update
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorSpec"
+msgstr ""
+
+# Particular auto update
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorSpecAuto"
+msgstr ""
+
+# Particular scheduled update
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorSpecSche"
+msgstr ""
+
+# External request
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorSpecByRequest"
+msgstr ""
+
+# All update
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorAll"
+msgstr ""
+
+# %1$s (self-learning)
+#, php-format
+msgctxt "admin.Manage_Queue"
+msgid "InitiatorSubLearn_%1$s"
+msgstr ""
+
+# HTML code is well formatted
+msgctxt "admin.Manage_HtmlChecker_Msg"
+msgid "Ok"
+msgstr ""
+
+# Brotli
+msgctxt "admin.Settings_EncTypes"
+msgid "Brotli"
+msgstr ""
+
+# GZip
+msgctxt "admin.Settings_EncTypes"
+msgid "GZip"
+msgstr ""
+
+# Deflate
+msgctxt "admin.Settings_EncTypes"
+msgid "Deflate"
+msgstr ""
+
+# Compress
+msgctxt "admin.Settings_EncTypes"
+msgid "Compress"
+msgstr ""
+
+# Uncompressed
+msgctxt "admin.Settings_EncTypes"
+msgid "None"
+msgstr ""
+
+# Brotli
+msgctxt "admin.Settings_ComprTypes"
+msgid "Brotli"
+msgstr ""
+
+# Zip
+msgctxt "admin.Settings_ComprTypes"
+msgid "Deflate"
+msgstr ""
+
+# Uncompressed
+msgctxt "admin.Settings_ComprTypes"
+msgid "None"
+msgstr ""
+
+# 0
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutMinsPlchldr"
+msgstr ""
+
+# 0
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutHoursPlchldr"
+msgstr ""
+
+# 0
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutDaysPlchldr"
+msgstr ""
+
+# Cookie name begin parts or expressions, each on newline
+msgctxt "admin.Settings"
+msgid "CookiesPhlr"
+msgstr ""
+
+# Argument name begin parts separated by comma
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "ArgsPhlr"
+msgstr ""
+
+# Argument name begin parts or expressions for whole name and value, each on newline
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "Args2Phlr"
+msgstr ""
+
+# Column conditions (e.g. col1 = v1,v2; col2 = v3) separated by semicolon
+msgctxt "admin.Settings_Tbls"
+msgid "TblCondPhlr"
+msgstr ""
+
+# Regular expressions for style URL, ID or body, each on newline
+msgctxt "admin.Settings_Styles_Editor"
+msgid "StylesPhlr"
+msgstr ""
+
+# File extensions separated by comma
+msgctxt "admin.Settings_Cdns"
+msgid "TypesPhlr"
+msgstr ""
+
+# URL parts separated by comma
+msgctxt "admin.Settings_Cdns"
+msgid "ExlsPhlr"
+msgstr ""
+
+# Enter the CDN URL, e.g. %1$s
+#, php-format
+msgctxt "admin.Settings_Cdn_Item"
+msgid "AddrPhlr_%1$s"
+msgstr ""
+
+# delete
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "OpDelCmbItem"
+msgstr ""
+
+# revalidate
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "OpRevalidateCmbItem"
+msgstr ""
+
+# delete server's
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "OpSrvDelCmbItem"
+msgstr ""
+
+# Settings view
+msgctxt "admin.Settings_Nav"
+msgid "Title"
+msgstr ""
+
+# <strong>Simple</strong>
+msgctxt "admin.Settings_Nav"
+msgid "SimpleRad"
+msgstr ""
+
+# <strong>Cache and it's revalidation</strong>
+msgctxt "admin.Settings_Nav"
+msgid "CacheRad"
+msgstr ""
+
+# <strong>Scripts and styles</strong>
+msgctxt "admin.Settings_Nav"
+msgid "ScriptsRad"
+msgstr ""
+
+# <strong>CDN and advanced</strong>
+msgctxt "admin.Settings_Nav"
+msgid "OtherRad"
+msgstr ""
+
+# <strong>Exclusions, views and users</strong>
+msgctxt "admin.Settings_Nav"
+msgid "VarsRad"
+msgstr ""
+
+# <strong>Content</strong>
+msgctxt "admin.Settings_Nav"
+msgid "ContentRad"
+msgstr ""
+
+# Cache
+msgctxt "admin.Settings_Cache"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Cache_Common"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Cache_Common"
+msgid "EnableChk"
+msgstr ""
+
+# Early pages processing (warming up)
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "AutoProcChk"
+msgstr ""
+
+# Normalize user-agent
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "NormAgentChk"
+msgstr ""
+
+# Accepted encodings
+msgctxt "admin.Settings_Cache_AcceptEncodings"
+msgid "Lbl"
+msgstr ""
+
+# Data storing
+msgctxt "admin.Settings_Cache_DataCompression"
+msgid "Lbl"
+msgstr ""
+
+# Use compression for assets
+msgctxt "admin.Settings_Cache_Common"
+msgid "UseDataComprAssetsChk"
+msgstr ""
+
+# Directory levels: %1$s
+#, php-format
+msgctxt "admin.Settings_Cache_Common"
+msgid "DataDirLevels_%1$s"
+msgstr ""
+
+# Same parts separation
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "Lbl"
+msgstr ""
+
+# Optimize storaging
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "EnableChk"
+msgstr ""
+
+# Scripts
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "EnableJsChk"
+msgstr ""
+
+# Styles
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "EnableCssChk"
+msgstr ""
+
+# Element(s) XPath selector
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "SelectorPhlr"
+msgstr ""
+
+# Before
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "BeforeChk"
+msgstr ""
+
+# After
+msgctxt "admin.Settings_Cache_SamePartsOpt"
+msgid "AfterChk"
+msgstr ""
+
+# Headers
+msgctxt "admin.Settings_Cache_Headers"
+msgid "Lbl"
+msgstr ""
+
+# Regular expressions for header, each on newline
+msgctxt "admin.Settings_Cache_Headers"
+msgid "HdrsPhlr"
+msgstr ""
+
+# Revalidation
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Cache_Revalidate_Cmn"
+msgid "Lbl"
+msgstr ""
+
+# Lazy revalidation
+msgctxt "admin.Settings_Cache_Common"
+msgid "LazyInvChk"
+msgstr ""
+
+# Temporary cache not optimized content at initial revalidation
+msgctxt "admin.Settings_Cache_Common"
+msgid "LazyInvInitTmpChk"
+msgstr ""
+
+# Temporary cache not optimized content after forced revalidation
+msgctxt "admin.Settings_Cache_Common"
+msgid "LazyInvForcedTmpChk"
+msgstr ""
+
+# Temporary cache not optimized content after auto-revalidation
+msgctxt "admin.Settings_Cache_Common"
+msgid "LazyInvTmpChk"
+msgstr ""
+
+# Posts
+msgctxt "admin.Settings_Cache_Revalidate_UpdPost"
+msgid "Lbl"
+msgstr ""
+
+# When post is changed, then %1$s cache of it and below pages:
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdPostChk_%1$s"
+msgstr ""
+
+# Site's URLs, relative URIs, or expressions, each on newline
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdPostDepsPhlr"
+msgstr ""
+
+# Always update post's cache if it's meta fields are changed, except below ones:
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdPostMetaChk"
+msgstr ""
+
+# Regular expressions for meta field names, each on newline
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdPostMetaExclsPhlr"
+msgstr ""
+
+# Delay: %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdPostDelay_%1$s"
+msgstr ""
+
+# Taxonomies
+msgctxt "admin.Settings_Cache_Revalidate_UpdTerms"
+msgid "Lbl"
+msgstr ""
+
+# When below taxonomies (e.g. categories, tags) are modified, then %1$s all cache:
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdTermsChk_%1$s"
+msgstr ""
+
+# Taxonomy ids separated by comma
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdTermsDepsPhlr"
+msgstr ""
+
+# All update dependencies
+msgctxt "admin.Settings_Cache_Revalidate_UpdAll"
+msgid "Lbl"
+msgstr ""
+
+# Site's URLs, relative URIs, or expressions, each on newline
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "UpdAllDepsPhlr"
+msgstr ""
+
+# Processing
+msgctxt "admin.Settings_Cache_Revalidate_Proc"
+msgid "Lbl"
+msgstr ""
+
+# Maximum number of parallel processing: %1$s pages(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "MaxProc_%1$s"
+msgstr ""
+
+# Time before next processing: %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "ProcInterval_%1$s"
+msgstr ""
+
+# Time before next processing (after skipped): %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "ProcIntervalShort_%1$s"
+msgstr ""
+
+# After working more than %1$s second(s) cooling down during %2$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "ProcWorkPauseInts_%1$s%2$s"
+msgstr ""
+
+# Memory limit: %1$s MB
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "MemLim_%1$s"
+msgstr ""
+
+# Time limit: %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate"
+msgid "TimeLim_%1$s"
+msgstr ""
+
+# Intervals
+msgctxt "admin.Settings_Cache_Revalidate_Intervals"
+msgid "Lbl"
+msgstr ""
+
+# Auto-revalidate cache if time to live is expired:
+msgctxt "admin.Settings_Cache_Common"
+msgid "UpdByTimeoutChk"
+msgstr ""
+
+# %3$s days, %2$s hours, and %1$s minutes
+#, php-format
+msgctxt "admin.Settings_Cache_Common"
+msgid "Timeout_%1$s%2$s%3$s"
+msgstr ""
+
+# Time to live for fresh parts: %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutFragments_%1$s"
+msgstr ""
+
+# Time to live for cleanup: %3$s days, %2$s hours, and %1$s minutes
+#, php-format
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutCln_%1$s%2$s%3$s"
+msgstr ""
+
+# Adjust Nonce
+msgctxt "admin.Settings_Cache_Common"
+msgid "TimeoutClnForWpNonceChk"
+msgstr ""
+
+# Auto-cleanup interval: %3$s days, %2$s hours, and %1$s minutes
+#, php-format
+msgctxt "admin.Settings_Cache_Common"
+msgid "AutoClnPeriod_%1$s%2$s%3$s"
+msgstr ""
+
+# Schedule
+msgctxt "admin.Settings_Cache_Revalidate_Sche"
+msgid "Lbl"
+msgstr ""
+
+# Every %2$sth %1$s at:
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "UpdChk_%1$s%2$s"
+msgstr ""
+
+# day
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerDay"
+msgstr ""
+
+# hour
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerHour"
+msgstr ""
+
+# minute
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerMinute"
+msgstr ""
+
+# month
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerMonth"
+msgstr ""
+
+# week
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerWeek"
+msgstr ""
+
+# year
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PerYear"
+msgstr ""
+
+# %13$s shift%5$s, %4$s%6$s%7$s at %3$s day(s)%8$s%9$s, %2$s hours%10$s%11$s and %1$s minutes%12$s
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "Time_%1$s%2$s%3$s%4$s%5$s%6$s%7$s%8$s%9$s%10$s%11$s%12$s%13$s"
+msgstr ""
+
+# Next run: %1$s (is updated after page reloading)
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "NextRunDescr_%1$s"
+msgstr ""
+
+# %1$s cache of specified pages with priority %2$s than particular auto update:
+#, php-format
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "UpdLbl_%1$s%2$s"
+msgstr ""
+
+# lower
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PriorNormal"
+msgstr ""
+
+# higher
+msgctxt "admin.Settings_Cache_Revalidate_Sche_Item"
+msgid "PriorHigh"
+msgstr ""
+
+# Browser cache
+msgctxt "admin.Settings_CacheBrowser"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_CacheBrowser_Common"
+msgid "Lbl"
+msgstr ""
+
+# Time to live: %3$s days, %2$s hours, and %1$s minutes
+#, php-format
+msgctxt "admin.Settings_CacheBrowser_Common"
+msgid "Timeout_%1$s%2$s%3$s"
+msgstr ""
+
+# Server and cloud
+msgctxt "admin.Settings_Cache_Srv"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Cache_Srv_Gen"
+msgid "Lbl"
+msgstr ""
+
+# Allow cache
+msgctxt "admin.Settings_Cache_Srv"
+msgid "SrvChk"
+msgstr ""
+
+# Update cache (if available)
+msgctxt "admin.Settings_Cache_Srv"
+msgid "SrvUpdChk"
+msgstr ""
+
+# NGINX
+msgctxt "admin.Settings_Cache_Srv_Nginx"
+msgid "Lbl"
+msgstr ""
+
+# Cache directory: %1$s
+#, php-format
+msgctxt "admin.Settings_Cache_Srv_Nginx"
+msgid "FastCgiCacheDir_%1$s"
+msgstr ""
+
+# Cache levels: %1$s
+#, php-format
+msgctxt "admin.Settings_Cache_Srv_Nginx"
+msgid "FastCgiCacheLevels_%1$s"
+msgstr ""
+
+# Sucuri
+msgctxt "admin.Settings_Cache_Srv_Sucuri"
+msgid "Lbl"
+msgstr ""
+
+# API key: %1$s
+#, php-format
+msgctxt "admin.Settings_Cache_Srv_Sucuri"
+msgid "ApiKey_%1$s"
+msgstr ""
+
+# API secret: %1$s
+#, php-format
+msgctxt "admin.Settings_Cache_Srv_Sucuri"
+msgid "ApiSecret_%1$s"
+msgstr ""
+
+# Exclusions
+msgctxt "admin.Settings_Exclusions"
+msgid "Title"
+msgstr ""
+
+# URI paths
+msgctxt "admin.Settings_Exclusions_Uris"
+msgid "Lbl"
+msgstr ""
+
+# URI path begin parts or regular expressions, each on newline
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "UrisPhlr"
+msgstr ""
+
+# URI arguments
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "Lbl"
+msgstr ""
+
+# Exclude all
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "AllExclChk"
+msgstr ""
+
+# Cache skip all
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "AllSkipChk"
+msgstr ""
+
+# Agents
+msgctxt "admin.Settings_Exclusions_Agents"
+msgid "Lbl"
+msgstr ""
+
+# Agent name parts separated by comma
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "AgentsPhlr"
+msgstr ""
+
+# Cookies
+msgctxt "admin.Settings_Exclusions_Cookies"
+msgid "Lbl"
+msgstr ""
+
+# Cookie name begin parts separated by comma
+msgctxt "admin.Settings_Exclusions_Args"
+msgid "CookiesPhlr"
+msgstr ""
+
+# Content's patterns
+msgctxt "admin.Settings_Exclusions_Conts"
+msgid "Lbl"
+msgstr ""
+
+# XPath selectors of elements, each on newline
+msgctxt "admin.Settings_Exclusions_Conts"
+msgid "PatternsPhlr"
+msgstr ""
+
+# Different views cache
+msgctxt "admin.Settings_Views"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Views_Common"
+msgid "Lbl"
+msgstr ""
+
+# Separate by below criterias
+msgctxt "admin.Settings_Views_Common"
+msgid "ViewsChk"
+msgstr ""
+
+# Device types
+msgctxt "admin.Settings_Views_Devices"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Views_Devices_Item"
+msgid "EnabledLbl"
+msgstr ""
+
+# Name
+msgctxt "admin.Settings_Views_Devices_Item"
+msgid "NameLbl"
+msgstr ""
+
+# Name to separate cache
+msgctxt "admin.Settings_Views_Devices_Item"
+msgid "NamePhlr"
+msgstr ""
+
+# Slug: %1$s (is updated after saving)
+#, php-format
+msgctxt "admin.Settings_Views_Devices_Item"
+msgid "NameIdDescr_%1$s"
+msgstr ""
+
+# Agents
+msgctxt "admin.Settings_Views_Devices_Item"
+msgid "AgentsLbl"
+msgstr ""
+
+# Agent name parts or regular expressions, each on newline
+msgctxt "admin.Settings_Cache_Devices"
+msgid "AgentsPhlr"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Views_Geo"
+msgid "EnableChk"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Views_Geo"
+msgid "EnabledLbl"
+msgstr ""
+
+# Name
+msgctxt "admin.Settings_Views_Geo"
+msgid "NameLbl"
+msgstr ""
+
+# Name to identify GEO group
+msgctxt "admin.Settings_Views_Geo"
+msgid "NamePhlr"
+msgstr ""
+
+# Slug: %1$s
+#, php-format
+msgctxt "admin.Settings_Views_Geo"
+msgid "NameIdDescr_%1$s"
+msgstr ""
+
+# Country codes:
+msgctxt "admin.Settings_Views_Geo"
+msgid "CountryCodesLbl"
+msgstr ""
+
+# Two-letters ISO 3166-1 codes or regular expressions for them, each on newline
+msgctxt "admin.Settings_Views_Geo"
+msgid "CountryCodePhlr"
+msgstr ""
+
+# Compatibility
+msgctxt "admin.Settings_Views_Compat"
+msgid "Lbl"
+msgstr ""
+
+# Lite optimization
+msgctxt "admin.Settings_Views_Compat_Item_Name"
+msgid "CompatChk"
+msgstr ""
+
+# Lite optimization with minimum HTML size
+msgctxt "admin.Settings_Views_Compat_Item_Name"
+msgid "CompatMinChk"
+msgstr ""
+
+# Agent name regular expressions, each on newline
+msgctxt "admin.Settings_Cache_Devices"
+msgid "AgentsCompatPhlr"
+msgstr ""
+
+# Parameters
+msgctxt "admin.Settings_Views"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Views_Item"
+msgid "EnabledLbl"
+msgstr ""
+
+# Group name
+msgctxt "admin.Settings_Views_Item"
+msgid "NameLbl"
+msgstr ""
+
+# URI exclusions
+msgctxt "admin.Settings_Views_Item"
+msgid "UriExclsLbl"
+msgstr ""
+
+# Cookies
+msgctxt "admin.Settings_Views_Item"
+msgid "CookiesLbl"
+msgstr ""
+
+# URI arguments
+msgctxt "admin.Settings_Views_Item"
+msgid "ArgsLbl"
+msgstr ""
+
+# Users
+msgctxt "admin.Settings_Ctx"
+msgid "Title"
+msgstr ""
+
+# Cache
+msgctxt "admin.Settings_Ctx_Common"
+msgid "Lbl"
+msgstr ""
+
+# Enable (beta)
+msgctxt "admin.Settings_Ctx_Common"
+msgid "CtxChk"
+msgstr ""
+
+# Only for fresh parts (beta)
+msgctxt "admin.Settings_Ctx_Common"
+msgid "CtxSkipChk"
+msgstr ""
+
+# Separate sessions
+msgctxt "admin.Settings_Ctx_Common"
+msgid "CtxSessSepChk"
+msgstr ""
+
+# Enable content optimization
+msgctxt "admin.Settings_Advanced_Common"
+msgid "ContentProcessEnableChk"
+msgstr ""
+
+# Cache revalidation
+msgctxt "admin.Settings_Ctx_Revalidate"
+msgid "Lbl"
+msgstr ""
+
+# Allow from browser
+msgctxt "admin.Settings_Ctx_Revalidate"
+msgid "CtxClientRevalidateChk"
+msgstr ""
+
+# Data dependencies groups
+msgctxt "admin.Settings_Ctx_Grps"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Ctx_Grp"
+msgid "EnabledLbl"
+msgstr ""
+
+# Group name
+msgctxt "admin.Settings_Ctx_Grp"
+msgid "NameLbl"
+msgstr ""
+
+# Optional name to identify
+msgctxt "admin.Settings_Ctx_Grp"
+msgid "NamePhlr"
+msgstr ""
+
+# Cookies
+msgctxt "admin.Settings_Ctx_Grp_Cookies"
+msgid "Lbl"
+msgstr ""
+
+# URI arguments
+msgctxt "admin.Settings_Ctx_Grp_Args"
+msgid "Lbl"
+msgstr ""
+
+# Tables
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "Lbl"
+msgstr ""
+
+# Table name
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "NameLbl"
+msgstr ""
+
+# Column name
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "ColLbl"
+msgstr ""
+
+# Related table name
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "NameRelLbl"
+msgstr ""
+
+# Column name in related table
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "ColRelLbl"
+msgstr ""
+
+# Link ID column name in related table
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "ColRelLinkLbl"
+msgstr ""
+
+# Column conditions in related table
+msgctxt "admin.Settings_Ctx_Grp_Tbls"
+msgid "CondLbl"
+msgstr ""
+
+# HTML
+msgctxt "admin.Settings_Html"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Html_Common"
+msgid "Lbl"
+msgstr ""
+
+# Minify
+msgctxt "admin.Settings_Html_Common"
+msgid "MinChk"
+msgstr ""
+
+# Early paint
+msgctxt "admin.Settings_Html_Common"
+msgid "EarlyPaintChk"
+msgstr ""
+
+# Fix markup
+msgctxt "admin.Settings_Html_Fix"
+msgid "Lbl"
+msgstr ""
+
+# Basic
+msgctxt "admin.Settings_Html_Fix"
+msgid "LiteChk"
+msgstr ""
+
+# Embedded scripts and styles encoding correction
+msgctxt "admin.Settings_Html_Fix"
+msgid "LiteScrEncCorrChk"
+msgstr ""
+
+# Additional
+msgctxt "admin.Settings_Html_Fix"
+msgid "MedChk"
+msgstr ""
+
+# Advanced by 'Tidy'
+msgctxt "admin.Settings_Html_Fix"
+msgid "TidyChk"
+msgstr ""
+
+# Cleanup
+msgctxt "admin.Settings_Html_Cln"
+msgid "Lbl"
+msgstr ""
+
+# Comments that not contain:
+msgctxt "admin.Settings_Html_Cln"
+msgid "CmtsChk"
+msgstr ""
+
+# Regular expressions for comment's content, each on newline
+msgctxt "admin.Settings_Html_Cln"
+msgid "CommentsExclPhlr"
+msgstr ""
+
+# Elements:
+msgctxt "admin.Settings_Html_Cln"
+msgid "ItemsLbl"
+msgstr ""
+
+# Elements' XPath selectors, each on newline
+msgctxt "admin.Settings_Group_Item"
+msgid "SklExclPhlr"
+msgstr ""
+
+# Replacement
+msgctxt "admin.Settings_Html_Rpl"
+msgid "Lbl"
+msgstr ""
+
+# String or regular expression
+msgctxt "admin.Settings_Html_Rpl"
+msgid "FindExprPhlr"
+msgstr ""
+
+# Always fresh parts
+msgctxt "admin.Settings_Html_Fresh"
+msgid "Lbl"
+msgstr ""
+
+# Smooth appearing
+msgctxt "admin.Settings_Images_Lazy"
+msgid "SmoothAppearChk"
+msgstr ""
+
+# Elements' XPath selectors, each on newline
+msgctxt "admin.Settings_Html_Lazy"
+msgid "ItemsPhlr"
+msgstr ""
+
+# Lazy load parts
+msgctxt "admin.Settings_Html_Lazy"
+msgid "Lbl"
+msgstr ""
+
+# Load before non-critical scripts
+msgctxt "admin.Settings_Html_Lazy"
+msgid "LoadBeforeJsChk"
+msgstr ""
+
+# Storing as attributes
+msgctxt "admin.Settings_Html_Lazy"
+msgid "AsPropChk"
+msgstr ""
+
+# Images
+msgctxt "admin.Settings_Images"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Images_Common"
+msgid "Lbl"
+msgstr ""
+
+# Detect changes
+msgctxt "admin.Settings_Images_Common"
+msgid "SrcAddLmChk"
+msgstr ""
+
+# Adjust attachments' URLs
+msgctxt "admin.Settings_Images_Common"
+msgid "SysFltChk"
+msgstr ""
+
+# Inline smaller than %1$s KB size
+#, php-format
+msgctxt "admin.Settings_Images_Common"
+msgid "InlineSmallChk_%1$s"
+msgstr ""
+
+# Deinline equal or larger than %1$s KB size
+#, php-format
+msgctxt "admin.Settings_Images_Common"
+msgid "DeInlineLargeChk_%1$s"
+msgstr ""
+
+# Excludes:
+msgctxt "admin.Settings_Common"
+msgid "ExclsLbl"
+msgstr ""
+
+# Elements' XPath selectors, each on newline
+msgctxt "admin.Settings_Images_Lazy"
+msgid "ExclsPhlr"
+msgstr ""
+
+# Compression
+msgctxt "admin.Settings_Images_Compr"
+msgid "Lbl"
+msgstr ""
+
+# Enable WebP with %1$squality
+#, php-format
+msgctxt "admin.Settings_Images_Compr"
+msgid "WebpChk_%1$s"
+msgstr ""
+
+# Auto-redirection to WebP version
+msgctxt "admin.Settings_Images_Compr"
+msgid "RedirWebpChk"
+msgstr ""
+
+# Enable Avif with %1$squality and %2$sspeed
+#, php-format
+msgctxt "admin.Settings_Images_Compr"
+msgid "AvifChk_%1$s%2$s"
+msgstr ""
+
+# Auto-redirection to Avif version
+msgctxt "admin.Settings_Images_Compr"
+msgid "RedirAvifChk"
+msgstr ""
+
+# Adaptive redirection for simple external cache
+msgctxt "admin.Settings_Images_Compr"
+msgid "RedirCacheAdaptChk"
+msgstr ""
+
+# Alternative redirection
+msgctxt "admin.Settings_Images_Compr"
+msgid "RedirOwnChk"
+msgstr ""
+
+# Adaptation to screen sizes
+msgctxt "admin.Settings_Images_Adapt"
+msgid "Lbl"
+msgstr ""
+
+# Ordinary images
+msgctxt "admin.Settings_Images_Adapt"
+msgid "ImgChk"
+msgstr ""
+
+# Background images
+msgctxt "admin.Settings_Images_Adapt"
+msgid "BgChk"
+msgstr ""
+
+# Larger than %1$s pixels wide
+#, php-format
+msgctxt "admin.Settings_Images_Adapt"
+msgid "SzLbl_%1$s"
+msgstr ""
+
+# Use Device Pixel Ratio
+msgctxt "admin.Settings_Images_Adapt"
+msgid "DprChk"
+msgstr ""
+
+# Elements' XPath selectors, each on newline
+msgctxt "admin.Settings_Images_Adapt"
+msgid "ExclsPhlr"
+msgstr ""
+
+# Lazy load
+msgctxt "admin.Settings_Images_Lazy"
+msgid "Lbl"
+msgstr ""
+
+# Add original size
+msgctxt "admin.Settings_Images_Lazy"
+msgid "SetSizeChk"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Images_Lazy"
+msgid "LoadChk"
+msgstr ""
+
+# Own algorithm
+msgctxt "admin.Settings_Images_Lazy"
+msgid "OwnChk"
+msgstr ""
+
+# Remove 3rd party ones
+msgctxt "admin.Settings_Images_Lazy"
+msgid "Del3rdChk"
+msgstr ""
+
+# Cache external
+msgctxt "admin.Settings_Images_CacheExt"
+msgid "Lbl"
+msgstr ""
+
+# Patterns for URLs:
+msgctxt "admin.Settings_Images_CacheExt"
+msgid "DescrLbl"
+msgstr ""
+
+# Regular expressions for URLs, each on newline
+msgctxt "admin.Settings_Images_CacheExt"
+msgid "ItemsPhlr"
+msgstr ""
+
+# Videos, frames and content parts
+msgctxt "admin.Settings_Frames"
+msgid "Title"
+msgstr ""
+
+# Lazy load
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "EnableChk"
+msgstr ""
+
+# Show adapted placeholder for YouTube videos
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "YouTubeChk"
+msgstr ""
+
+# Show adapted placeholder for Vimeo videos
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "VimeoChk"
+msgstr ""
+
+# Background videos of Elementor
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "ElmntrBgChk"
+msgstr ""
+
+# Videos of Feeds for YouTube plugin
+msgctxt "admin.Settings_Frames_Lazy"
+msgid "YouTubeFeedChk"
+msgstr ""
+
+# Corrections for lazy loading scripts
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "Lbl"
+msgstr ""
+
+# Slider of Airtech Plumber theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SldBdtChk"
+msgstr ""
+
+# Switcher of Airtech Plumber theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SwBdtChk"
+msgstr ""
+
+# Video JS widget
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "VidJsChk"
+msgstr ""
+
+# Animation of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrAniChk"
+msgstr ""
+
+# Split animation of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrSpltAniChk"
+msgstr ""
+
+# Animation of TRX Addons for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrTrxAniChk"
+msgstr ""
+
+# Slideshow with backgrounds of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrBgSldshwChk"
+msgstr ""
+
+# Videos of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrVidsChk"
+msgstr ""
+
+# Tabs of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrTabsChk"
+msgstr ""
+
+# Accordion of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrAccrdnChk"
+msgstr ""
+
+# Advanced Tabs of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrAdvTabsChk"
+msgstr ""
+
+# Premium Tabs of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrPremTabsChk"
+msgstr ""
+
+# Premium Carousel of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrPremCrslChk"
+msgstr ""
+
+# Navigation Menu of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrNavMenuChk"
+msgstr ""
+
+# Premium Navigation Menu of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrPremNavMenuChk"
+msgstr ""
+
+# Premium Scroll of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrPremScrlChk"
+msgstr ""
+
+# Gallery Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtGalChk"
+msgstr ""
+
+# Image Carousel Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtImgCrslChk"
+msgstr ""
+
+# Woo Product Images Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtWooPrdImgsChk"
+msgstr ""
+
+# Counter Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtCntrChk"
+msgstr ""
+
+# AVO Showcase Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtAvoShcsChk"
+msgstr ""
+
+# Lottie Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtLottChk"
+msgstr ""
+
+# Premium Lottie Widget of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrWdgtPrmLottChk"
+msgstr ""
+
+# Lottie Widget of Nectar
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "NktrLottChk"
+msgstr ""
+
+# Sticky elements of Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrStckChk"
+msgstr ""
+
+# Sticky Header Effects for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrSheChk"
+msgstr ""
+
+# Stretched elements for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmntrStrtchSecChk"
+msgstr ""
+
+# Appearing animation of Qi Addons for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "QodefApprAniChk"
+msgstr ""
+
+# Lazy items of Porto theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PrtThSkelChk"
+msgstr ""
+
+# Responsive of Astra theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "AstrRspChk"
+msgstr ""
+
+# Responsive of Nine theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "NtBlueThRspnsvChk"
+msgstr ""
+
+# Responsive of Mediken theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "MdknThRspnsvChk"
+msgstr ""
+
+# Backgrounds of FlatSome theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "FltsmThBgFillChk"
+msgstr ""
+
+# Animation of FlatSome theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "FltsmThAniChk"
+msgstr ""
+
+# Slideshow of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkSldshwChk"
+msgstr ""
+
+# Background image of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkBgImgChk"
+msgstr ""
+
+# Animation of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkAniChk"
+msgstr ""
+
+# Grid of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkGridChk"
+msgstr ""
+
+# Modal of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkModalChk"
+msgstr ""
+
+# Height Viewport of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkHghtVwpChk"
+msgstr ""
+
+# Navigation Bar of UIkit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UkNavBarChk"
+msgstr ""
+
+# Header of Yoo theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "TmHdrChk"
+msgstr ""
+
+# Smart Slider
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SldN2SsChk"
+msgstr ""
+
+# Revolution Slider 6.5-6.6
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SldRevChk"
+msgstr ""
+
+# Smooth loading
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SldRevSmthLdChk"
+msgstr ""
+
+# Revolution Slider 6.7-*
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SldRev7Chk"
+msgstr ""
+
+# Thumbnail of tagDiv
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "TdThumbCssChk"
+msgstr ""
+
+# Image Comparison Widget of ElementsKit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmsKitImgCmpChk"
+msgstr ""
+
+# Lottie Widget of ElementsKit
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ElmsKitLottChk"
+msgstr ""
+
+# Carousel of Happy Elementor Addons
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "HaCrslChk"
+msgstr ""
+
+# Tabs of Login/Signup Popup
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "XooelTabsChk"
+msgstr ""
+
+# Photonic Photo Gallery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PhotonicThumbChk"
+msgstr ""
+
+# Mobile Menu from Jet
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JetMobMenuChk"
+msgstr ""
+
+# Lottie Widget of Jet
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JetLottChk"
+msgstr ""
+
+# Carousel of Jet
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JetCrslChk"
+msgstr ""
+
+# Posts Carousel of Jet
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JetCrslPstChk"
+msgstr ""
+
+# Image's Multi View from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviMvImgChk"
+msgstr ""
+
+# Text's Multi View from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviMvTextChk"
+msgstr ""
+
+# Slider's Multi View from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviMvSldChk"
+msgstr ""
+
+# Full Width Header's Multi View from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviMvFwHdrChk"
+msgstr ""
+
+# Video-box from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviVidBoxChk"
+msgstr ""
+
+# Video-background from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviVidBgChk"
+msgstr ""
+
+# Video-frame from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviVidFrChk"
+msgstr ""
+
+# Gallery from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviDsmGalChk"
+msgstr ""
+
+# Lazy styles loading from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviLzStlsChk"
+msgstr ""
+
+# Preloader from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviPrldChk"
+msgstr ""
+
+# Sticky elements from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviStckChk"
+msgstr ""
+
+# Animation from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviAniChk"
+msgstr ""
+
+# Animation via data from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviDataAniChk"
+msgstr ""
+
+# Header from Divi
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "DiviHdrChk"
+msgstr ""
+
+# Animation of Bricks
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "BrcksAniChk"
+msgstr ""
+
+# Animation from Kadence theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "KdncThAniChk"
+msgstr ""
+
+# Cinematic scroll image animation from Scrollsequence
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ScrlSeqChk"
+msgstr ""
+
+# Background video of Avada theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "FusionBgVidChk"
+msgstr ""
+
+# Equal Height Columns of Avada theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "FsnEqHghtColsChk"
+msgstr ""
+
+# Animation of Avada theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "FsnAniChk"
+msgstr ""
+
+# Animation of Thrive theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "ThrvAniChk"
+msgstr ""
+
+# Responsive of Phlox theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PhloxThRspnsvChk"
+msgstr ""
+
+# Animation of Phlox theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PhloxThAniChk"
+msgstr ""
+
+# Images source set from MK
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "MkImgSrcSetChk"
+msgstr ""
+
+# Price Filter from Woodmart
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WoodmartPrcFltChk"
+msgstr ""
+
+# Price Filter from WooCommerce
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WooPrcFltChk"
+msgstr ""
+
+# Product Filter by WBW
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WbwPrdFltChk"
+msgstr ""
+
+# JS from WooCommerce
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WooJsChk"
+msgstr ""
+
+# WPStories
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WpStrsChk"
+msgstr ""
+
+# Tag Groups from TaxoPress
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "TxpTagGrpsChk"
+msgstr ""
+
+# Simple Menu of Essential Addons
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "EaelSmpMnuChk"
+msgstr ""
+
+# Animated text of Royal Addons for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WprAniTxtChk"
+msgstr ""
+
+# Tabs of Royal Addons for Elementor
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WprTabsChk"
+msgstr ""
+
+# Tabs of Shortcodes Ultimate
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SuTabsChk"
+msgstr ""
+
+# Animation of Ultimate for WPBakery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UpbAniChk"
+msgstr ""
+
+# Background image of Ultimate for WPBakery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UpbBgImgChk"
+msgstr ""
+
+# Background video of Ultimate for WPBakery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UpbCntVidChk"
+msgstr ""
+
+# Responsive of Ultimate
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UltRspnsvChk"
+msgstr ""
+
+# Heading of Ultimate
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UltVcHdChk"
+msgstr ""
+
+# Animation of Ultimate
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "UltAniChk"
+msgstr ""
+
+# Animation of The7 theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "The7AniChk"
+msgstr ""
+
+# Mobile header of The7 theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "The7MblHdrChk"
+msgstr ""
+
+# Animation of SandBox theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SbThAniChk"
+msgstr ""
+
+# Animation of Essentials theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "EsntlsThAniChk"
+msgstr ""
+
+# Animation of Betheme theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "BeThAniChk"
+msgstr ""
+
+# Background image of Merimag theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "MerimagBgImgChk"
+msgstr ""
+
+# Loading elements of MyDecor theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "MdcrLdngChk"
+msgstr ""
+
+# Lazy styles loading from themes by PremiumPress
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PrmmprssLzStlsChk"
+msgstr ""
+
+# Image of Minimog theme
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "MnmgImgChk"
+msgstr ""
+
+# Background image of Tilda
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "TldBgImgChk"
+msgstr ""
+
+# Background video of Vide for jQuery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JqVideChk"
+msgstr ""
+
+# Nivo Slider for jQuery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JqSldNivoChk"
+msgstr ""
+
+# Sales Countdown Timer from Sctr
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "WooSctrCntDwnTmrChk"
+msgstr ""
+
+# Lottie generic
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "LottGenChk"
+msgstr ""
+
+# Menu from SuperFly
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "SprflMenuChk"
+msgstr ""
+
+# Player from jQuery
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "JqJpPlrChk"
+msgstr ""
+
+# Player from Presto
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "PrstPlrChk"
+msgstr ""
+
+# Once animation of Page Builder Blocks of GreenShift
+msgctxt "admin.Settings_Frames_ContParts"
+msgid "GrnshftPbAosOnceAniChk"
+msgstr ""
+
+# Scripts
+msgctxt "admin.Settings_Scripts"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Scripts_Common"
+msgid "Lbl"
+msgstr ""
+
+# Optimize loading critical special, non-critical and special
+msgctxt "admin.Settings_Scripts_Common"
+msgid "OptLoadChk"
+msgstr ""
+
+# Defer critical special
+msgctxt "admin.Settings_Scripts_CritSpecial"
+msgid "TimeoutChk"
+msgstr ""
+
+# Defer non-critical with %1$s seconds timeout
+#, php-format
+msgctxt "admin.Settings_Scripts_NotCrit"
+msgid "TimeoutChk_%1$s"
+msgstr ""
+
+# Defer special after non-critical with %1$s seconds timeout
+#, php-format
+msgctxt "admin.Settings_Scripts_Special"
+msgid "TimeoutChk_%1$s"
+msgstr ""
+
+# Deep hooks
+msgctxt "admin.Settings_Scripts_Common"
+msgid "CplxDelayChk"
+msgstr ""
+
+# Early preloading of non-critical
+msgctxt "admin.Settings_Scripts_Common"
+msgid "PreLoadEarlyChk"
+msgstr ""
+
+# Loading without timing switching
+msgctxt "admin.Settings_Scripts_Common"
+msgid "LoadFastChk"
+msgstr ""
+
+# Grouping
+msgctxt "admin.Settings_Scripts_Group"
+msgid "Lbl"
+msgstr ""
+
+# Group and combine critical special
+msgctxt "admin.Settings_Scripts_Common"
+msgid "GroupCritSpecChk"
+msgstr ""
+
+# Group and combine non-critical
+msgctxt "admin.Settings_Scripts_Common"
+msgid "GroupNonCritChk"
+msgstr ""
+
+# Modules
+msgctxt "admin.Settings_Scripts_Common"
+msgid "GroupExclMdlsChk"
+msgstr ""
+
+# Regular expressions for script URL, ID or body, each on newline
+msgctxt "admin.Settings_Scripts_Editor"
+msgid "ScriptsPhlr"
+msgstr ""
+
+# Lazy interactions
+msgctxt "admin.Settings_Scripts_Interact"
+msgid "Lbl"
+msgstr ""
+
+# Animation delay: %1$s millisecond(s)
+#, php-format
+msgctxt "admin.Settings_Scripts_Common"
+msgid "AniDelayDelay_%1$s"
+msgstr ""
+
+# Scripts loading delay at first scroll: %1$s millisecond(s)
+#, php-format
+msgctxt "admin.Settings_Scripts_Common"
+msgid "ScrlDelay_%1$s"
+msgstr ""
+
+# First click delay: %1$s millisecond(s)
+#, php-format
+msgctxt "admin.Settings_Scripts_Common"
+msgid "FirstClickDelay_%1$s"
+msgstr ""
+
+# Exclusions of instant click:
+msgctxt "admin.Settings_Scripts_Interact"
+msgid "ExclsDefLbl"
+msgstr ""
+
+# Elements' XPath selectors, each on newline
+msgctxt "admin.Settings_Scripts_Other"
+msgid "InclsPhlr"
+msgstr ""
+
+# Exclusions of delayed click:
+msgctxt "admin.Settings_Scripts_Interact"
+msgid "ExclsLbl"
+msgstr ""
+
+# Minify
+msgctxt "admin.Settings_Scripts_Min"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Scripts_Common"
+msgid "MinChk"
+msgstr ""
+
+# Remove copyright information
+msgctxt "admin.Settings_Scripts_Common"
+msgid "CopyrightRemChk"
+msgstr ""
+
+# Critical special
+msgctxt "admin.Settings_Scripts_CritSpecial"
+msgid "Lbl"
+msgstr ""
+
+# Regular expressions for script URL, ID or body, each on newline
+msgctxt "admin.Settings_Scripts_Special"
+msgid "ScriptsPhlr"
+msgstr ""
+
+# Non-critical
+msgctxt "admin.Settings_Scripts_NotCrit"
+msgid "Lbl"
+msgstr ""
+
+# Inlined
+msgctxt "admin.Settings_NonCritScope"
+msgid "InlChk"
+msgstr ""
+
+# Internal
+msgctxt "admin.Settings_NonCritScope"
+msgid "IntChk"
+msgstr ""
+
+# External
+msgctxt "admin.Settings_NonCritScope"
+msgid "ExtChk"
+msgstr ""
+
+# Exclude
+msgctxt "admin.Settings_NonCritScope"
+msgid "Excl"
+msgstr ""
+
+# Include only
+msgctxt "admin.Settings_NonCritScope"
+msgid "Incl"
+msgstr ""
+
+# Special
+msgctxt "admin.Settings_Scripts_Special"
+msgid "Lbl"
+msgstr ""
+
+# Not needed
+msgctxt "admin.Settings_Scripts_Skip"
+msgid "Lbl"
+msgstr ""
+
+# Treat as scripts
+msgctxt "admin.Settings_Scripts_Other"
+msgid "Lbl"
+msgstr ""
+
+# Styles
+msgctxt "admin.Settings_Styles"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Styles_Common"
+msgid "Lbl"
+msgstr ""
+
+# Optimize loading
+msgctxt "admin.Settings_Styles_Common"
+msgid "OptLoadChk"
+msgstr ""
+
+# Inline as source
+msgctxt "admin.Settings_Styles_Common"
+msgid "InlAsSrcChk"
+msgstr ""
+
+# Inline critical
+msgctxt "admin.Settings_Styles_Common"
+msgid "InlCritChk"
+msgstr ""
+
+# Inline non-critical
+msgctxt "admin.Settings_Styles_Common"
+msgid "InlNonCritChk"
+msgstr ""
+
+# Delay non-critical with non-critical scripts
+msgctxt "admin.Settings_Styles_Common"
+msgid "DelayNonCritWithJsChk"
+msgstr ""
+
+# Waiting for loading
+msgctxt "admin.Settings_Styles_Common"
+msgid "BfrJsChk"
+msgstr ""
+
+# combine
+msgctxt "admin.Settings_Styles_Common"
+msgid "CombineCmbItem"
+msgstr ""
+
+# Group and %1$s critical
+#, php-format
+msgctxt "admin.Settings_Styles_Common"
+msgid "GroupChk_%1$s"
+msgstr ""
+
+# don't combine
+msgctxt "admin.Settings_Styles_Common"
+msgid "NotCombineCmbItem"
+msgstr ""
+
+# Group and %1$s non-critical
+#, php-format
+msgctxt "admin.Settings_Styles_Common"
+msgid "GroupNonCritChk_%1$s"
+msgstr ""
+
+# Separate imports
+msgctxt "admin.Settings_Styles_Common"
+msgid "SepImpChk"
+msgstr ""
+
+# Minify
+msgctxt "admin.Settings_Styles_Common"
+msgid "MinChk"
+msgstr ""
+
+# Fix structure
+msgctxt "admin.Settings_Styles_Common"
+msgid "CorrErrChk"
+msgstr ""
+
+# Fonts
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "Lbl"
+msgstr ""
+
+# Optimize loading via %1$s mode
+#, php-format
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "OptChk_%1$s"
+msgstr ""
+
+# Empty (for all names), font name part or regular expression
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "OptLoadNameExprPlchldr"
+msgstr ""
+
+# Separate from critical styles
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "FontNonCritChk"
+msgstr ""
+
+# Group and %1$s
+#, php-format
+msgctxt "admin.Settings_Styles_Common"
+msgid "GroupFontChk_%1$s"
+msgstr ""
+
+# Deinline equal or larger than %1$s KB size
+#, php-format
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "DeInlineLargeChk_%1$s"
+msgstr ""
+
+# Early preloading (beta)
+msgctxt "admin.Settings_Styles_Fonts"
+msgid "FontPreloadChk"
+msgstr ""
+
+# Non-critical
+msgctxt "admin.Settings_Styles_NotCrit"
+msgid "Lbl"
+msgstr ""
+
+# Automatically, excluding specified CSS selectors
+msgctxt "admin.Settings_Styles_NotCrit"
+msgid "Auto"
+msgstr ""
+
+# Manual
+msgctxt "admin.Settings_Styles_NotCrit"
+msgid "Manual"
+msgstr ""
+
+# Regular expressions for CSS selectors, each on newline
+msgctxt "admin.Settings_Styles_NotCrit"
+msgid "AutoExclPhlr"
+msgstr ""
+
+# Not needed
+msgctxt "admin.Settings_Styles_Skip"
+msgid "Lbl"
+msgstr ""
+
+# Corrections for lazy loading scripts
+msgctxt "admin.Settings_Styles_Custom"
+msgid "Lbl"
+msgstr ""
+
+# Optional description to identify
+msgctxt "admin.Settings_Styles_Custom"
+msgid "DescrPhlr"
+msgstr ""
+
+# Use even if scripts are not delay loaded
+msgctxt "admin.Settings_Styles_Custom"
+msgid "NoJsDlChk"
+msgstr ""
+
+# CDN
+msgctxt "admin.Settings_Cdns"
+msgid "Title"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Cdn_Item"
+msgid "EnabledLbl"
+msgstr ""
+
+# Apply to scripts
+msgctxt "admin.Settings_Cdn_Item"
+msgid "ScrApplyChk"
+msgstr ""
+
+# Address
+msgctxt "admin.Settings_Cdn_Item"
+msgid "AddrLbl"
+msgstr ""
+
+# Types
+msgctxt "admin.Settings_Cdn_Item"
+msgid "TypesLbl"
+msgstr ""
+
+# Includes
+msgctxt "admin.Settings_Cdn_Item"
+msgid "InclsLbl"
+msgstr ""
+
+# Excludes
+msgctxt "admin.Settings_Cdn_Item"
+msgid "ExclsLbl"
+msgstr ""
+
+# Content groups
+msgctxt "admin.Settings_Groups"
+msgid "Title"
+msgstr ""
+
+# Modes
+msgctxt "admin.Settings_Group_Item"
+msgid "EnabledLbl"
+msgstr ""
+
+# Common settings' overriding
+msgctxt "admin.Settings_Group_Item"
+msgid "SettOvrChk"
+msgstr ""
+
+# Self-learning
+msgctxt "admin.Settings_Group_Item"
+msgid "LearnChk"
+msgstr ""
+
+# Name
+msgctxt "admin.Settings_Group_Item"
+msgid "NameLbl"
+msgstr ""
+
+# Optional name to identify
+msgctxt "admin.Settings_Group_Item"
+msgid "NamePhlr"
+msgstr ""
+
+# Scope
+msgctxt "admin.Settings_Group_Item"
+msgid "ScopeLbl"
+msgstr ""
+
+# URI paths
+msgctxt "admin.Settings_Group_Item"
+msgid "UrisInclLbl"
+msgstr ""
+
+# URI path begin parts or regular expressions, each on newline
+msgctxt "admin.Settings_Group_Item"
+msgid "UriPhlr"
+msgstr ""
+
+# URI arguments
+msgctxt "admin.Settings_Group_Item"
+msgid "ArgsInclLbl"
+msgstr ""
+
+# Content's patterns
+msgctxt "admin.Settings_Group_Item"
+msgid "PatternsLbl"
+msgstr ""
+
+# XPath selectors of common elements, each on newline
+msgctxt "admin.Settings_Group_Item"
+msgid "PatternsPhlr"
+msgstr ""
+
+# Views
+msgctxt "admin.Settings_Group_Item"
+msgid "ViewsLbl"
+msgstr ""
+
+# Common settings' overrides
+msgctxt "admin.Settings_Group_Item"
+msgid "SettingsLbl"
+msgstr ""
+
+# Scripts
+msgctxt "admin.Settings_Group_Item_Settings"
+msgid "JsOverChk"
+msgstr ""
+
+# Scripts (non-critical)
+msgctxt "admin.Settings_Group_Item_Settings"
+msgid "JsNonCritScopeOvrChk"
+msgstr ""
+
+# Styles
+msgctxt "admin.Settings_Group_Item_Settings"
+msgid "CssOverChk"
+msgstr ""
+
+# Self-learning
+msgctxt "admin.Settings_Group_Item"
+msgid "LearnLbl"
+msgstr ""
+
+# Fast processing
+msgctxt "admin.Settings_Group_Item_Settings"
+msgid "SklSrchChk"
+msgstr ""
+
+# Exclusions for pages' structure comparing
+msgctxt "admin.Settings_Group_Item"
+msgid "SklExclLbl"
+msgstr ""
+
+# Exclusions for pages' styles selector comparing
+msgctxt "admin.Settings_Group_Item"
+msgid "SklCssSelExclLbl"
+msgstr ""
+
+# Regular expressions for CSS selectors, each on newline
+msgctxt "admin.Settings_Group_Item"
+msgid "SklCssSelExclPhlr"
+msgstr ""
+
+# Advanced
+msgctxt "admin.Settings_Advanced"
+msgid "Title"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_Advanced_Common"
+msgid "Lbl"
+msgstr ""
+
+# Enable default WordPress emoji icons
+msgctxt "admin.Settings_Advanced_Common"
+msgid "EmojiIconsEnableChk"
+msgstr ""
+
+# Trying to always keep a content of '%1$s' file in a right state
+#, php-format
+msgctxt "admin.Settings_Advanced_Common"
+msgid "ForceAdvCacheChk_%1$s"
+msgstr ""
+
+# host and path
+msgctxt "admin.Settings_Advanced_Common_NormUrl"
+msgid "HostPathCmbItem"
+msgstr ""
+
+# Normalize internal URLs to %1$s
+#, php-format
+msgctxt "admin.Settings_Advanced_Common"
+msgid "NormUrlChk_%1$s"
+msgstr ""
+
+# path only
+msgctxt "admin.Settings_Advanced_Common_NormUrl"
+msgid "PathCmbItem"
+msgstr ""
+
+# protocol, host and path
+msgctxt "admin.Settings_Advanced_Common_NormUrl"
+msgid "ProtoHostPathCmbItem"
+msgstr ""
+
+# Process 'If-Modified-Since' request
+msgctxt "admin.Settings_Advanced_Common"
+msgid "ChkNotMdfSinceChk"
+msgstr ""
+
+# Set 'Content-Length' HTTP response
+msgctxt "admin.Settings_Advanced_Common"
+msgid "CntLenChk"
+msgstr ""
+
+# Postponing of User Agent while updating
+msgctxt "admin.Settings_Advanced_Common"
+msgid "OpAgentPostponeChk"
+msgstr ""
+
+# Use %1$s requests for asynchronous tasks execution
+#, php-format
+msgctxt "admin.Settings_Advanced_Common"
+msgid "AsyncMode_%1$s"
+msgstr ""
+
+# normal
+msgctxt "admin.Settings_Advanced_AsyncMode"
+msgid "Normal"
+msgstr ""
+
+# local
+msgctxt "admin.Settings_Advanced_AsyncMode"
+msgid "Local"
+msgstr ""
+
+# internal root
+msgctxt "admin.Settings_Advanced_AsyncMode"
+msgid "ReRoot"
+msgstr ""
+
+# internal
+msgctxt "admin.Settings_Advanced_AsyncMode"
+msgid "Re"
+msgstr ""
+
+# Task scheduler (Cron)
+msgctxt "admin.Settings_Advanced_Cron"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Advanced_Cron"
+msgid "CronEnableChk"
+msgstr ""
+
+# Compensation on cached pages
+msgctxt "admin.Settings_Advanced_Cron"
+msgid "CronCompensatorChk"
+msgstr ""
+
+# Use for asynchronous tasks execution
+msgctxt "admin.Settings_Advanced_Cron"
+msgid "AsyncUseCronChk"
+msgstr ""
+
+# Debug
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "Lbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "EnableChk"
+msgstr ""
+
+# Enable HTTP trace header
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "HdrTraceEnableChk"
+msgstr ""
+
+# Enable additional information
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "EnableInfoChk"
+msgstr ""
+
+# Enable logging (%1$sopen%2$s, %3$sclear%4$s)
+#, php-format
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "LogChk_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Cache updating
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "LogUpdChk"
+msgstr ""
+
+# Server and cloud cache updating
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "LogSrvClrChk"
+msgstr ""
+
+# HTTP trace
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "LogRequestChk"
+msgstr ""
+
+# Including skipped
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "RequestSkippedChk"
+msgstr ""
+
+# Including admin
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "RequestSkippedAdminChk"
+msgstr ""
+
+# Including bots
+msgctxt "admin.Settings_Advanced_Debug"
+msgid "RequestBotsChk"
+msgstr ""
+
+# Bots
+msgctxt "admin.Settings_Advanced_Bots"
+msgid "Lbl"
+msgstr ""
+
+# Test
+msgctxt "admin.Settings_Advanced_Test"
+msgid "Lbl"
+msgstr ""
+
+# Content generation delay of %1$s second(s)
+#, php-format
+msgctxt "admin.Settings_Advanced_Test"
+msgid "TestContDelayChk_%1$s"
+msgstr ""
+
+# Add random invisible content of %1$s KB size
+#, php-format
+msgctxt "admin.Settings_Advanced_Test"
+msgid "TestContExtraChk_%1$s"
+msgstr ""
+
+# What <strong>functionality</strong> is it needed?
+msgctxt "admin.SetupWizard_Mode"
+msgid "Info"
+msgstr ""
+
+# <strong>Full functionality</strong>
+msgctxt "admin.SetupWizard_Mode"
+msgid "FullRad"
+msgstr ""
+
+# Full optimization and caching.
+msgctxt "admin.SetupWizard_Mode"
+msgid "FullInfo"
+msgstr ""
+
+# <strong>Only cache</strong>
+msgctxt "admin.SetupWizard_Mode"
+msgid "SimpleRad"
+msgstr ""
+
+# In this mode, there is no banner and no limit on the number of pages.
+msgctxt "admin.SetupWizard_Mode"
+msgid "SimpleInfo"
+msgstr ""
+
+# It's better to <strong>be sure</strong> that the <strong>plugin works correctly</strong> at this site. This diagnostic tool verifies all requred site's mechanisms and settings.
+msgctxt "admin.SetupWizard_SelfDiag"
+msgid "Info"
+msgstr ""
+
+# The good optimization that our product provides takes time. Optimization time will be less on hostings with high performance%1$s. Therefore, the optimized version of the page does not appear immediately, but after some time. By default, pages are always displayed in an optimized view, regardless of the update process. But in some cases, it may be necessary to display updated pages in a timely manner.<br><br>Which <strong>optimization mode</strong> do you need?
+#, php-format
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "Info_%1$s"
+msgstr ""
+
+#  (more on this in the next step of the wizard)
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "Info_1"
+msgstr ""
+
+# <strong>Always a high score</strong> (or not sure)
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "ScoreRad"
+msgstr ""
+
+# The pages will always be in an optimized view and the score will be high, but there will be a delay when updating the content of the pages, depending on their number and on the hosting speed. So, for a while the pages will show the previous content.
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "ScoreInfo"
+msgstr ""
+
+# <strong>Always up to date content</strong>
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "FreshRad"
+msgstr ""
+
+# The content of the pages will almost always be in an optimized view, but at the time of page update, they will have an unoptimized original view until the optimization is completed. This mode can be relevant for stores where you need to update prices and availability of products in a timely manner.
+msgctxt "admin.SetupWizard_OptPrior"
+msgid "FreshInfo"
+msgstr ""
+
+# <strong>Don't change current settings</strong>
+msgctxt "admin.SetupWizard"
+msgid "DontModifyRad"
+msgstr ""
+
+# All current related settings won't be changed.
+msgctxt "admin.SetupWizard"
+msgid "DontModifyInfo"
+msgstr ""
+
+# What is the <strong>performance</strong> of the site's <strong>hosting</strong> (it means processors)?
+msgctxt "admin.SetupWizard_Host"
+msgid "Info"
+msgstr ""
+
+# <strong>High</strong>
+msgctxt "admin.SetupWizard_Host"
+msgid "HighRad"
+msgstr ""
+
+# Usually it is a hosting on a dedicated server with a large amount of memory and a number of processors, which has tolerance to a very high load.
+msgctxt "admin.SetupWizard_Host"
+msgid "HighInfo"
+msgstr ""
+
+# <strong>Medium</strong>
+msgctxt "admin.SetupWizard_Host"
+msgid "MedRad"
+msgstr ""
+
+# Usually, this is hosting on a dedicated (not virtual or shared) server, where there are no restrictions on the use of the processor.
+msgctxt "admin.SetupWizard_Host"
+msgid "MedInfo"
+msgstr ""
+
+# <strong>Low</strong> (or not sure)
+msgctxt "admin.SetupWizard_Host"
+msgid "LowRad"
+msgstr ""
+
+# Usually this is virtual or shared hosting with restrictions on the use of the processor.
+msgctxt "admin.SetupWizard_Host"
+msgid "LowInfo"
+msgstr ""
+
+# Is the <strong>layout of the site universal</strong> for all types of devices (is it necessary to separate the processing of mobile and other devices)?
+msgctxt "admin.SetupWizard_Mobiles"
+msgid "Info"
+msgstr ""
+
+# <strong>No</strong> (or not sure)
+msgctxt "admin.SetupWizard_Mobiles"
+msgid "DepRad"
+msgstr ""
+
+# Optimization for mobile devices will be done separately in addition to ordinary devices.
+msgctxt "admin.SetupWizard_Mobiles"
+msgid "DepInfo"
+msgstr ""
+
+# <strong>Universal or adaptive</strong>
+msgctxt "admin.SetupWizard_Mobiles"
+msgid "IndepRad"
+msgstr ""
+
+# Saving hosting resources and optimization time.
+msgctxt "admin.SetupWizard_Mobiles"
+msgid "IndepInfo"
+msgstr ""
+
+# That's all. Now, the whole site optimization can be run.
+msgctxt "admin.SetupWizard"
+msgid "FinalInfo"
+msgstr ""
+
+# <strong>Run optimization of all site's pages</strong>
+msgctxt "admin.SetupWizard"
+msgid "RunOptChk"
+msgstr ""
+
+# Start self-diagnosis
+msgctxt "admin.SelfDiag"
+msgid "Start"
+msgstr ""
+
+# URL: %1$s<br>Error: %2$s
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "RequestWpErr_%1$s%2$s"
+msgstr ""
+
+# Request headers
+msgctxt "admin.SelfDiag"
+msgid "RequestHeaders"
+msgstr ""
+
+# Response headers
+msgctxt "admin.SelfDiag"
+msgid "ResponseHeaders"
+msgstr ""
+
+# Response body
+msgctxt "admin.SelfDiag"
+msgid "Body"
+msgstr ""
+
+# The file/directory '%1$s' is not writable (error code 0x%2$08X). Please, make it writable and try again.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "FileWriteFail_%1$s%2$08X"
+msgstr ""
+
+# Timeout expired. Please, try to run again this test and if it still remains failed after several times it means that Cron doesn't work correctly.
+msgctxt "admin.SelfDiag"
+msgid "TaskExecTimeoutExpired"
+msgstr ""
+
+# Probably 'Cron' is blocked on this site. Please, <strong>try to turn off '%1$s: %2$s: %3$s' in the settings</strong> and run this test again.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "TaskExecCronProbablyBlocked_%1$s%2$s%3$s"
+msgstr ""
+
+# Request time is longer than %1$s seconds and was %2$s seconds. Perhaps the hosting parameters are not suitable for the current load and need to be improved.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "RequestTimeTooLong_%1$s%2$s"
+msgstr ""
+
+# The body must contain '%1$s'. But <strong>if all work</strong> this notice <strong>can be ignored</strong>.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "BdyMismatchCanSkip_%1$s"
+msgstr ""
+
+# Maximum execution time is limited to %1$s seconds. It's recommended to change it to %2$s seconds at the hosting's PHP settings, otherwise the optimization may not have time to complete.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "WarnExecTime_%1$s%2$s"
+msgstr ""
+
+# Maximum memory is limited to %1$s. It's recommended to change it to %2$s at the hosting's PHP settings, otherwise the optimization may not be completed. If the current memory limit is needed this notice can be avoided by putting this limit in '<strong>%3$s</strong>' settings.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "WarnMemLim_%1$s%2$s%3$s"
+msgstr ""
+
+# No request time.
+msgctxt "admin.SelfDiag"
+msgid "NoCurRequestTime"
+msgstr ""
+
+# The body must contain '%1$s'.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "BdyMismatch_%1$s"
+msgstr ""
+
+# External static caching of %3$s is active, which can block the display of fresh and optimized pages. In this case, it will be necessary to additionally clear it's cache. Also, %1$sit can be allowed%2$s to avoid this notice.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "HdrMismatchExtCacheType_%1$s%2$s%3$s"
+msgstr ""
+
+# Probably external static caching is active, which blocks the display of fresh and optimized pages. In this case, it will be necessary to additionally clear such a cache. Also, %1$sit can be allowed%2$s to avoid this notice.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "HdrMismatchExtCache_%1$s%2$s"
+msgstr ""
+
+# The response headers must contain '%1$s'.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "HdrMismatch_%1$s"
+msgstr ""
+
+# Can't initialize needed database tables: %1$s. Please, <strong>initialize it manually by running the next SQL commands</strong> in database manager:
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "DbTblCreateUpdateFailed_%1$s"
+msgstr ""
+
+# After the settings will been changed, please, don't forget to update the cache %1$shere%2$s.
+#, php-format
+msgctxt "admin.Notice"
+msgid "RemindRefreshCache_%1$s%2$s"
+msgstr ""
+
+# The cache directory '%1$s' is not writtable or can't be created. Please, create it manually, <strong>make it writable</strong>, and save the plugin settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "CacheDirNotWrittable_%1$s"
+msgstr ""
+
+# The '%1$s' directory is not writable. It is needed to create a file '%2$s' in to that folder in order to work. Please, <strong>make it writable</strong> and save the plugin settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentDirNotWrittable_%1$s%2$s"
+msgstr ""
+
+# The '%2$s' in '%1$s' folder is not writable. Please, <strong>make it writable</strong> and save the plugin settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentDropinNotWrittable_%1$s%2$s"
+msgstr ""
+
+# <p>Required content:</p>%1$s<p>Current content:</p>%2$s
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentDropinNotMatchEx_%1$s%2$s"
+msgstr ""
+
+# The file '%2$s' in '%1$s' folder has wrong content. Please, <strong>save the plugin settings</strong> to correct it.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentDropinNotMatch_%1$s%2$s"
+msgstr ""
+
+# The file '%2$s' in '%1$s' folder is not loaded. It looks like it's some kind of special hosting or site setup.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentDropinNotLoaded_%1$s%2$s"
+msgstr ""
+
+# The configuration file '%1$s' is not writable. Please, make it writable and save the plugin settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ConfigFileNotWrittable_%1$s"
+msgstr ""
+
+# The WordPress cache system is not active. Please, <strong>save the plugin settings</strong> to activate it.
+msgctxt "admin.Notice"
+msgid "WpCacheNotActive"
+msgstr ""
+
+# PHP '%1$s' extension at least %2$s version must be active to work correctly. Please, enable it at hosting's PHP settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "PhpBrotliNotActive_%1$s%2$s"
+msgstr ""
+
+# The file '%1$s' is not writable. Please, make it writable.
+#, php-format
+msgctxt "admin.Notice"
+msgid "TmpFileNotWrittable_%1$s"
+msgstr ""
+
+# The file '%1$s' has wrong state. Please, <strong>save the plugin settings</strong> to correct it.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ContentNginxConfNotMatch_%1$s"
+msgstr ""
+
+# PHP '%1$s' extension must be active to work correctly. Please, enable it at hosting's PHP settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "PhpExtNotActive_%1$s"
+msgstr ""
+
+# '%2$s' function requres PHP '%1$s' extension to work correctly. But, <strong>if the site has wellformed HTML</strong> this function is not necessary and can be just turned off in the '%3$s' group. Otherwise, please, enable '%1$s' extension at hosting's PHP settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "PhpTidyNotActive_%1$s%2$s%3$s"
+msgstr ""
+
+# '%2$s' function requres PHP '%1$s' extension to work correctly. If this function is not needed it can be just turned off in the '%3$s' group. Otherwise, please, enable '%1$s' extension at hosting's PHP settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "PhpGdNotActive_%1$s%2$s%3$s"
+msgstr ""
+
+# To avoid display breaking or pausing while loading pages, the option <strong>'%3$s' should be set to '%4$s'</strong> in the <strong>'%2$s'</strong> settings. %1$s
+#, php-format
+msgctxt "admin.Notice"
+msgid "3rdSett_DisplayConflict_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# off
+msgctxt "admin.Notice"
+msgid "OffOptionValue"
+msgstr ""
+
+# A conflicting setting has been detected that is preventing correct working. The <strong>'%2$s' should be turned off</strong> in '%1$s''s settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "3rdSett_ConflictSoft_%1$s%2$s"
+msgstr ""
+
+# A conflicting module has been detected that is preventing correct working. The <strong>'%1$s' should be disabled</strong>.
+#, php-format
+msgctxt "admin.Notice"
+msgid "3rdMdl_Conflict_%1$s"
+msgstr ""
+
+# A conflicting setting has been detected that is preventing correct working. The <strong>'%1$s' should be disabled</strong> or <strong>'%2$s' should be turned off</strong> in it's settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "3rdSett_Conflict_%1$s%2$s"
+msgstr ""
+
+# A requred module is missing. The <strong>'%1$s' should be enabled</strong>.
+#, php-format
+msgctxt "admin.Notice"
+msgid "3rdMdl_ConflictOff_%1$s"
+msgstr ""
+
+# A conflicting setting has been detected that is preventing correct working. The <strong>'%2$s' should be turned off</strong> in '%1$s' settings.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "3rdExtSett_Conflict_%1$s%2$s"
+msgstr ""
+
+# The <strong>'%2$s'</strong> in '%1$s' settings might decrease the site's loading speed.
+#, php-format
+msgctxt "admin.SelfDiag"
+msgid "3rdExtSett_SpeedDecr_%1$s%2$s"
+msgstr ""
+
+# Images' auto-redirection to '%3$s' is not active. Please, find %1$show to enable it%2$s or try turn on the <strong>%5$s</strong> mode. If all previous steps are unsuccessful you can just turn off the <strong>%4$s</strong> option.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ImgConvRedir_NotActive_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# Images' compression to '%3$s' is not supported on current hosting configuration. Please, find %1$show to enable it%2$s or just turn off the <strong>%4$s</strong> option.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ImgConv_NotSupp_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Images' compression to '%3$s' doesn't work: %5$s. Please, find %1$show to fix it%2$s or just turn off the <strong>%4$s</strong> option.
+#, php-format
+msgctxt "admin.Notice"
+msgid "ImgConv_NotWork_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# Asset's loading of '%1$s' type has bad compression. Please, check the hosting's settings.
+#, php-format
+msgctxt "admin.Notice"
+msgid "AssetCompr_Bad_%1$s"
+msgstr ""
